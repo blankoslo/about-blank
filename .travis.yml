@@ -3,6 +3,6 @@ rvm:
 - 2.2.5
 
 script: bundle exec jekyll build
-after_success: s3_website push
+after_success: bundle exec s3_website push
 
 sudo: false # route your build to the container-based infrastructure for a faster build
