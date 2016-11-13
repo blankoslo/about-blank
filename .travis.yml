@@ -11,7 +11,7 @@ deploy:
     access_key_id: $S3_ACCESS_KEY_ID # declared in Travis repo settings
     secret_access_key: $S3_SECRET_KEY
     bucket: about.blankoslo.no
-    region: us-central-1
+    region: eu-central-1
     skip_cleanup: true
     local-dir: _site
     acl: public_read
