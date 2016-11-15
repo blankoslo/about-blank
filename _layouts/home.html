@@ -4,7 +4,7 @@
   <body>
     <div>
       <header class="clearfix">
-        <div class="right absolute-lg right-0 top-0">
+        <div class="right fixed right-0 top-0 header-background">
           <ul class="mt-2 mr-2 mr-lg-3">
             {% assign pages = (site.pages | where: "layout" , "page")  ) | sort:"title" %}
             {% for my_page in pages %}
