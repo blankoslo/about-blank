@@ -16,7 +16,7 @@ Fakturerbare timer gjør man som man vil med, så lenge det er OK for kunden.
 
 ### Internt
 
-Man skal som hovedregel kun føre timer på interne aktivteter dersom de er pålagt. Følgende aktiviteter regnes alltid som “pålagt”:
+Man skal som hovedregel kun føre timer på interne aktivteter dersom det er avklart. Følgende aktiviteter trenger ingen avklaring:
 
 - Innedag (7,5t)
 - Konferanse/kurs (7,5t)
