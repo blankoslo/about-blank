@@ -8,8 +8,8 @@ permalink: /organisering/
 Administrasjonen består av:
 
 - Jahn Arne Johnsen - Daglig leder
-- Magne Davidsen - Leder, teknologi
-- Jon Bernholdt Olsen - Leder, brukeropplevelse
+- Magne Davidsen - Leder, Teknologi
+- Jon Bernholdt Olsen - Leder, Design
 - Erlend Oftedal - CTO
 - Knut Backer - Salgssjef
 
