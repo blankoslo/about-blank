@@ -11,6 +11,7 @@ Administrasjonen består av:
 - Magne Davidsen - Leder, teknologi
 - Jon Bernholdt Olsen - Leder, brukeropplevelse
 - Erlend Oftedal - CTO
+- Knut Backer - Salgssjef
 
 ## Styret og ansattrepresentanter
 Styret i Blank består pt. av:
