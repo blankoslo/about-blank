@@ -16,10 +16,12 @@ Administrasjonen består av:
 ## Styret og ansattrepresentanter
 Styret i Blank består pt. av:
 
-- Magne Davidsen, styreleder - repr. majoritetsaksjonærene
-- Jon Bernholdt Olsen, nestleder - repr. majoritetsaksjonærene
-- Jahn Arne Johnsen, styremedlem - repr. majoritetsaksjonærene
-- Ole Jacob Eriksen Syrdahl, styremedlem - repr. minoritetsaksjonærene
-- Yngvar Johnsen, styremedlem - repr. ansatte
+Navn | Rolle | Representant for
+------ | ----- | --------------------
+Magne Davidsen | Styreleder | Majoritetsaksjonærene
+Jon Bernholdt Olsen | Styrets nestleder | Majoritetsaksjonærene
+Jahn Arne Johnsen | Styremedlem | Majoritetsaksjonærene
+Ole Jacob Eriksen Syrdal | Styremedlem | Minoritetsaksjonærene
+Yngvar Johnsen | Styremedlem | Ansattrepresentant
 
 Representant for minoritetsaksjonær og representant for de ansatte velges for to år av gangen. Siste valg ble gjennomført høsten 2015.
