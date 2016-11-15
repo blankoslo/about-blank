@@ -28,7 +28,7 @@ For å illustrere med et eksempel: i 4. kvartal 2016 går Blank med et overskudd
 ### Forsikringer
 
 #### Reiseforsikring
-Ddekker arbeidstaker på jobbreise, og arbeidstaker med familie på fritidsreiser. Egenandelen er … kr, resten av vilkårene finner du her: …
+Dekker arbeidstaker på jobbreise, og arbeidstaker med familie på fritidsreiser. Egenandelen er … kr, resten av vilkårene finner du her: …
 
 #### Behandlingsforsikring
 
