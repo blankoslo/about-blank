@@ -25,7 +25,7 @@ Man skal som hovedregel kun føre timer på interne aktivteter dersom det er avk
 
 Bruk av fleksitid og avspasering er OK, så lenge det er godkjent av kunde og kollegaer.
 
-### “Avspaseringskonto”
+### Avspaseringskonto
 Det er alltid OK å være mellom 37,5 timer i pluss eller minus på “avspaseringskontoen”. Dersom man går utenfor dette må man ta ut overtidsbetaling (dersom man har overtidsberettigede timer), avspasere eller jobbe inn/bruke ferie for å komme ajour.
 
 ## Høytids- og helligdager
