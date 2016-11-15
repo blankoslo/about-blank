@@ -44,6 +44,7 @@
         <div class="py-2 mb-2 prose">
           <h2 id="{{ my_page.url | relative_url }}" class="h1 lh-condensed col-9 mb-0">
             <a class="link-primary" href="#{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+            <a class="edit" href="https://github.com/blankoslo/about-blank/edit/master/{{my_page.path}}"><img class="edit" src="{{ "/assets/edit.svg" | prepend: full_base_url }}" /></a>
           </h2>
           <p>{{ my_page.content | markdownify }}</p>
         </div>

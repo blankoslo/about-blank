@@ -16,6 +16,14 @@ code {
     background-color: $color-code-background;
 }
 
+a.edit {
+  border-bottom: 0 !important;
+}
+
+img.edit {
+  width: 15px;
+  margin-left: 0.2em;
+}
 
 .prose {
 
