@@ -8,11 +8,10 @@ layout: default
     {% assign pages = (site.pages | where: "layout" , "page")  ) | sort:"title" %}
     {% for my_page in pages  %}
       <li>
-        <h2 id="{{ my_page.url | relative_url }}">
+        <h1 id="{{ my_page.url | relative_url }}">
           <a class="post-link" href="#{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-
-        </h2>
-        {{ my_page.content }}
+        </h1>
+        {{ my_page.content | markdownify }}
       </li>
     {% endfor %}
   </ul>

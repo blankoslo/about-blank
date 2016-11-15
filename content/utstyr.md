@@ -1,9 +1,12 @@
 ---
 layout: page
-title: Utstyr
-permalink: /utstyr/
+title: Innkjøp
+permalink: /innkjop/
 ---
 
-Det er lov å kjøpe ting.  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris penis ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Utgiftsføring
+Innkjøp utgiftsføres i Tripletex (https://www.tripletex.no/). Logg inn med brukeren du skal ha fått utdelt ved ansettelse.
 
-Det er lov å være syk.  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris penis ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Utstyrsliste
+
+I tillegg til utgiftsføring i Tripletex ønsker vi å holde en oversikt over materielle innkjøp i et eget skjema. Før opp materialet her: https://drive.google.com/open?id=1K-okaHKiYPvpR9Bf_p4dm63qcQ_Xl5qT58ZjIAmt3RY.

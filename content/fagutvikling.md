@@ -4,6 +4,14 @@ title: Fagutvikling
 permalink: /fagutvikling/
 ---
 
-Vi gjør utvikling vi!  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris penis ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Innedager
 
-Det er lov å være syk.  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris penis ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Vi gjennomfører 10 innedager i løpet av hvert år. Som hovedregel er første fredag i hver måned "Innedag".  
+
+## Konferanser
+
+Alle i Blank kan, uten å egentlig avklare med andre enn Kunde / team, dra på en valgfri, større, fagutviklingsaktivitet i året. Denne aktiviteten kan godt være utenlands, men da maks annethvert år. Om man holder foredrag på en konferanse, «teller» den ikke og er utenfor begrensningen. Dersom man får dekket eller dekker selv reise o.l for utenlandsaktivitet, så teller den på lik linje som innenlandsaktivitet.
+
+I tillegg innfører vi nå et fagutviklingssheet hvor alle må legge inn en linje når man drar på en slik aktivitet. Dette skal bare inneholde kort hva aktiviteten er, hvor lenge den varer (inkl. evt. reisedager) og hvor mye penger man bruker splittet på billett, reise og opphold.
+
+Merk at frokostseminarer, meet-ups o.l. selvfølgelig kommer utenom.
