@@ -9,7 +9,6 @@ permalink: /vilkaar/
 
 Alminnelig arbeidstid er fra kl 8:00 til kl 16:00. “Kjernetid” er fra kl 10:00 til kl 14:00 internt, på prosjekt følger man kundens krav.
 
-
 ### Prosjekt
 
 Fakturerbare timer gjør man som man vil med, så lenge det er OK for kunden.
@@ -44,6 +43,8 @@ Selskapet dekker differansen mellom kompensasjon fra det offentlige, og fast lø
 ### Tilvenning i barnehage og første skoledag
 
 ### Velferdspermisjon
+
+Ved fravær i forbindelse med dødsfall og begravelse føres tiden på permisjon med lønn.
 
 ### Flyttedag
 
