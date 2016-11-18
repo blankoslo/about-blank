@@ -42,6 +42,8 @@ Selskapet dekker differansen mellom kompensasjon fra det offentlige, og fast lø
 
 ### Tilvenning i barnehage og første skoledag
 
+???
+
 ### Velferdspermisjon
 
 Ved fravær i forbindelse med dødsfall og begravelse føres tiden på permisjon med lønn.
@@ -51,3 +53,11 @@ Ved fravær i forbindelse med dødsfall og begravelse føres tiden på permisjon
 Ved flytting kan én dag føres på permisjon med lønn.
 
 ## Sykdom
+
+### Egenmelding
+
+Man har 12 egenmeldingsdager, som kan benyttes enkeltvis eller sammenhengende.
+
+### Sykemelding
+
+Dersom man har brukt opp egenmeldingsdagene, må man ha sykemelding fra lege.
