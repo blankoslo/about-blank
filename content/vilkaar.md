@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ansettelsesvilkår
+title: Ansettelses&shy;vilkår
 permalink: /vilkaar/
 ---
 
