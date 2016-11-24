@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Ansettelsesvilkår
-permalink: /vilkaar/
+title: Timeføring og fravær
+permalink: /timeforing/
 ---
 
 
