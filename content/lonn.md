@@ -17,7 +17,7 @@ Ved internt arbeid avklares overtidsarbeid med den som er overordnet ansvarlig f
 Ordinær timelønn beregnes ved å dele brutto alminnelig årslønn på 1950 timer.
 
 ## Overskuddsdeling
-I steden for bonusordning har selskapet overskuddsdeling. Hvert kvartal settes 30% av overskuddet av, og deles likt på alle ansatte. Den ansattes andel skal også dekke arbeidsgiveravgift, og det betales ikke feriepenger eller pensjon av andelen.
+Istedenfor bonusordning har selskapet overskuddsdeling. Hvert kvartal settes 30% av overskuddet av, og deles likt på alle ansatte. Den ansattes andel skal også dekke arbeidsgiveravgift, og det betales ikke feriepenger eller pensjon av andelen.
 
 For å illustrere med et eksempel: i 4. kvartal 2016 går Blank med et overskudd på 950 000,- og har 25 ansatte:
 

@@ -1,14 +1,13 @@
 ---
 layout: page
-title: Ansettelsesvilkår
-permalink: /vilkaar/
+title: Timeføring og fravær
+permalink: /timeforing/
 ---
 
 
 ## Timerføring, overtid og avspasering
 
 Alminnelig arbeidstid er fra kl 8:00 til kl 16:00. “Kjernetid” er fra kl 10:00 til kl 14:00 internt, på prosjekt følger man kundens krav.
-
 
 ### Prosjekt
 
@@ -43,10 +42,22 @@ Selskapet dekker differansen mellom kompensasjon fra det offentlige, og fast lø
 
 ### Tilvenning i barnehage og første skoledag
 
+???
+
 ### Velferdspermisjon
+
+Ved fravær i forbindelse med dødsfall og begravelse føres tiden på permisjon med lønn.
 
 ### Flyttedag
 
 Ved flytting kan én dag føres på permisjon med lønn.
 
 ## Sykdom
+
+### Egenmelding
+
+Man har 12 egenmeldingsdager, som kan benyttes enkeltvis eller sammenhengende.
+
+### Sykemelding
+
+Dersom man har brukt opp egenmeldingsdagene, må man ha sykemelding fra lege.
