@@ -53,6 +53,7 @@ Ved fravær i forbindelse med dødsfall og begravelse føres tiden på permisjon
 Ved flytting kan én dag føres på permisjon med lønn.
 
 ## Sykdom
+Legetimer føres på timeføringskontoen "Internt - Permisjon med lønn".
 
 ### Egenmelding
 
