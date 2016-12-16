@@ -7,7 +7,7 @@ permalink: /timeforing/
 
 ## Timerføring, overtid og avspasering
 
-Alminnelig arbeidstid er fra kl 8:00 til kl 16:00. “Kjernetid” er fra kl 10:00 til kl 14:00 internt, på prosjekt følger man kundens krav.
+Alminnelig arbeidstid er fra kl 8:00 til kl 16:00. «Kjernetid» er fra kl 10:00 til kl 14:00 internt. På prosjekt følger man kundens krav.
 
 ### Prosjekt
 
@@ -20,7 +20,7 @@ Man skal som hovedregel kun føre timer på interne aktivteter dersom det er avk
 - Innedag (7,5t)
 - Konferanse/kurs (7,5t)
 - Intervjuer og forberedelser
-- “Når man ikke har prosjekt” - Interntid 7,5t per dag
+- «Når man ikke har prosjekt» - Interntid 7,5t per dag
 
 Bruk av fleksitid og avspasering er OK, så lenge det er godkjent av kunde og kollegaer.
 
@@ -53,7 +53,7 @@ Ved fravær i forbindelse med dødsfall og begravelse føres tiden på permisjon
 Ved flytting kan én dag føres på permisjon med lønn.
 
 ## Sykdom
-Legetimer føres på timeføringskontoen "Internt - Permisjon med lønn".
+Legetimer føres på timeføringskontoen *Internt - Permisjon med lønn*.
 
 ### Egenmelding
 
