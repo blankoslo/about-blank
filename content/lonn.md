@@ -5,19 +5,19 @@ permalink: /lonn/
 ---
 
 ## Lønn
-Det gjøres en årlig lønnsvurdering, og eventuelle justeringer har effekt fra 1. januar. Oppdatert lønnsliste over alle ansatte er tilgjengelig på delt filområde.
+Det gjøres en årlig lønnsvurdering, og eventuelle justeringer har effekt fra 1. januar. Oppdatert lønnsliste over alle ansatte er tilgjengelig på delt filområde.
 
 ## Overtidsbetaling
-Det betales 40% overtidsgodtgjørelse for pålagt overtidsarbeid.
+Det betales 40 % overtidsgodtgjørelse for pålagt overtidsarbeid.
 
-Ved fakturerbart arbeid bestemmer man selv hvor mye man vil jobbe, så lenge det er OK for kunde. (Kunder har lik timepris, uavhengig av overtid).
+Ved fakturerbart arbeid bestemmer man selv hvor mye man vil jobbe, så lenge det er OK for kunde. (Kunder har lik timepris, uavhengig av overtid.)
 
 Ved internt arbeid avklares overtidsarbeid med den som er overordnet ansvarlig for arbeidet som utføres.
 
 Ordinær timelønn beregnes ved å dele brutto alminnelig årslønn på 1950 timer.
 
 ## Overskuddsdeling
-Istedenfor bonusordning har selskapet overskuddsdeling. Hvert kvartal settes 30% av overskuddet av, og deles likt på alle ansatte. Den ansattes andel skal også dekke arbeidsgiveravgift, og det betales ikke feriepenger eller pensjon av andelen.
+Istedenfor bonusordning har selskapet overskuddsdeling. Hvert kvartal settes 30 % av overskuddet av, og deles likt på alle ansatte. Den ansattes andel skal også dekke arbeidsgiveravgift, og det betales ikke feriepenger eller pensjon av andelen.
 
 For å illustrere med et eksempel: i 4. kvartal 2016 går Blank med et overskudd på 950 000,- og har 25 ansatte:
 
@@ -37,7 +37,7 @@ Dekker arbeidstaker på jobbreise, og arbeidstaker med familie på fritidsreiser
 #### Uførepensjon -
 
 ### Internett
-Internett hjemme hos arbeidstaker dekkes av selskapet. Øvre grense er 500 kr ink mva i måneden.
+Internett hjemme hos arbeidstaker dekkes av selskapet. Øvre grense er 500 kr inkl. mva. i måneden.
 
 ### Mobil
-Abonnement for mobiltelefoni dekkes av selskapet. Dette kan brukes fritt innenfor Norge, eksklusive innholdstjenester.
+Abonnement for mobiltelefoni dekkes av selskapet. Dette kan brukes fritt innenfor Norge, eksklusivt innholdstjenester.
