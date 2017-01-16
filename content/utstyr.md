@@ -5,7 +5,7 @@ permalink: /innkjop/
 ---
 
 ## Utgiftsføring
-Innkjøp utgiftsføres i [Tripletex](https://www.tripletex.no/). Logg inn med brukeren du skal ha fått utdelt ved ansettelse.
+Innkjøp utgiftsføres i [Tripletex](https://www.tripletex.no/). Velg "Lønn" og så "Nytt ansattutlegg". Husk vedlegg, og trykk "Ferdig registrert" når utlegget er klart til godkjenning. Ansatteutlegg refunderes sammen med lønnsutbetaling siste arbeidsdag i måneden, og i tillegg en gang ca 15. hver måned.
 
 ## Utstyrsliste
 
