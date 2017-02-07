@@ -30,7 +30,10 @@ For å illustrere med et eksempel: i 4. kvartal 2016 går Blank med et overskudd
 ### Forsikringer
 
 #### Reiseforsikring
-Dekker arbeidstaker på jobbreise, og arbeidstaker med familie på fritidsreiser. Egenandelen er … kr, resten av vilkårene finner du her: …
+Hos Europeiske. Dekker arbeidstaker på jobbreise, og arbeidstaker med familie på fritidsreiser. Avtalen finner du [her](https://drive.google.com/open?id=0B3xWqhoxf9E_cXlVSFZWVnJ3dlE) og resten av vilkårene her: [https://www.europeiske.no/bedrift/reiseforsikring/tjenestereise-ferie-fritid]
+
+#### Verdisaksforsikring
+Hos If... Dekker skader på mobil utover den vanlige reiseforsikringen. Egenandelen er 1000 kr. Avtalen er beskrevet i samme dokument som reiseforsikringen [her](https://drive.google.com/open?id=0B3xWqhoxf9E_cXlVSFZWVnJ3dlE).
 
 #### Behandlingsforsikring
 
