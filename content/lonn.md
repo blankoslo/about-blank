@@ -36,6 +36,9 @@ Mer informasjon om hvordan man benytter de forskjellige forsikringene [finner du
 #### Reiseforsikring
 Dekker arbeidstaker på jobbreise, og arbeidstaker med familie på fritidsreiser.
 
+#### Mobilforsikring
+Vi har en egen eiendomsforsikring som dekker skader på mobil utover den vanlige reiseforsikringen. Max sum 8000 kr, egenandelen er 1000 kr.
+
 #### Behandlingsforsikring
 
 #### Yrkesskade- og yrkessykdomsforsikring
