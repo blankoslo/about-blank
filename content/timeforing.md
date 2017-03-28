@@ -28,7 +28,7 @@ Bruk av fleksitid og avspasering er OK, så lenge det er godkjent av kunde og ko
 Det er alltid OK å være mellom 37,5 timer i pluss eller minus på “avspaseringskontoen”. Dersom man går utenfor dette må man ta ut overtidsbetaling (dersom man har overtidsberettigede timer), avspasere eller jobbe inn/bruke ferie for å komme ajour.
 
 ## Høytids- og helligdager
-I tillegg til alle offentlige norske helligdager, behandler selskapet julaften og nyttårsaften som helligdager. Dette betyr at man ikke trenger å bruke ferie for å ha fri disse dagene.
+I tillegg til alle offentlige norske helligdager, behandler selskapet alle dager fra og med julaften til og med nyttårsaften som helligdager. Dette betyr at man ikke trenger å bruke ferie for å ha fri disse dagene.
 
 ## Permisjoner
 
