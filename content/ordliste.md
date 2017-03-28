@@ -15,13 +15,14 @@ Alle timer som er tilgjengelig for arbeid på selskapsnivå, det vil si timene d
 
 > Tilgjengelige timer = Arbeidsdager i perioden * Ansatte i perioden * 7,5 - Fratrekk
 
-Følgende trekkes fra:
+
+**Følgende trekkes fra:**
 - Helligdager (faktiske og selskapsbestemte)
 - Ferie
 - Permisjon uten lønn (inkludert foreldrepermisjon)
 - Sykdomsfravær med sykemelding
 
-Følgende trekkes ikke fra tilgjengelige timer, selv om man er fraværende:
+**Følgende trekkes ikke fra tilgjengelige timer, selv om man er fraværende:**
 - Sykdom - egenmelding
 - Sykt barn
 - Avspasering
@@ -39,7 +40,7 @@ Oppnådd timepris (OT) betyr snittpris per time solgt i en viss periode. Dette k
 
 Merk at den totale omsetningen, deles på antall timer i fakturerbare prosjekter. Dersom man for eksempel rabatterer eller avskriver timer, vil dette påvirke oppnådd timepris.
 
-### FG * OT
+## FG * OT
 
 Et annet måltall er "FG * OT". Dette er det viktigste måltallet å følge med på for å vite hvor godt et konsulentselskap gjør det økonomisk. "FG * OT" beregnes på følgende måte:
 
