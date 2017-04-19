@@ -25,6 +25,8 @@ For å illustrere med et eksempel: i 4. kvartal 2016 går Blank med et overskudd
 
 > (950 000,- * 30% / 1,14 (arbeidsgiveravgift)) / 25 ansatte = 10 000,- pr ansatt
 
+Bonus utbetales sammen med første månedslønn etter kvartalslutt. Eksempelvis utbetales bonus for Q1 sammenm med aprillønnen.
+
 ## Andre ytelser
 
 ### Forsikringer
