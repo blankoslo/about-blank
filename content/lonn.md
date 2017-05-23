@@ -29,6 +29,10 @@ Bonus utbetales sammen med første månedslønn etter kvartalslutt. Eksempelvis 
 
 ## Andre ytelser
 
+### Pensjon
+
+Blank sparer 5,5% av lønn mellom 0G og 12G i innskuddspensjon. Logg inn på [www.danica.no](http://www.danica.no) med BankID dersom du ønsker å justere risikoprofilen for din pensjonssparing.
+
 ### Forsikringer
 
 Forsikringsavtalen vår [finner du her](https://drive.google.com/open?id=0B3xWqhoxf9E_NVd3WDhZNUFETzQ) 
