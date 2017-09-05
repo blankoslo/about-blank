@@ -8,7 +8,7 @@ permalink: /prosjekt/
 Alle stillinger i Blank, med unntak av daglig leder og salgssjef, er konsulentstillinger. Dette innebærer at man er forventet å bruke mesteparten av tiden sin i fakturerbare kundeprosjekter. Konsulentene er allikevel ikke selv ansvarlige for å skaffe Blank kunder eller prosjekter.
 
 ## Salg og bemanning
-Alle salgs- og bemanningsprosesser i Blank skjer åpent. Hele selskapet kan se hvilke kunder man er i dialog med, og hvilke anbud man vurderer å svare på.
+Salgs- og bemanningsprosesser i Blank skjer som hovedregel åpent. Hele selskapet kan se hvilke kunder man er i dialog med, og hvilke anbud man vurderer å svare på. Det gjøres allikevel unntak, dersom kunder krever at oppdrag behandles hemmelig.
 
 De ansatte oppfordres til å diskutere hvilke kunder som attraktive for Blank å jobbe med, og hvilke som eventuelt ikke er det. De ansatte oppfordres også til å si ifra dersom man mener noen av kundene man får forespørsler fra er problematiske å samarbeide med, for eksempel på grunn av etiske forhold.
 
