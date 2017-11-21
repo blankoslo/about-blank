@@ -8,10 +8,14 @@ permalink: /organisering/
 Administrasjonen består av:
 
 - Jahn Arne Johnsen - Daglig leder
+- Knut Backer - Salgssjef
+
 - Magne Davidsen - Leder for Teknologi
 - Jon Bernholdt Olsen - Leder for Design
+
 - Erlend Oftedal - CTO
-- Knut Backer - Salgssjef
+- David McInnes - CDO
+
 
 ## Styret og ansattrepresentanter
 Styret i Blank består pt. av:
