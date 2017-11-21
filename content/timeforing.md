@@ -55,6 +55,9 @@ Ved flytting kan én dag føres på permisjon med lønn.
 ## Sykdom
 Legetimer, tannlegetimer og lignende kan føres på timeføringskontoen *Internt - Permisjon med lønn*.
 
+### Sykt barn - omsorgsdager
+Alt som er definert av NAV som [omsorgsdager](https://www.nav.no/no/Person/Familie/Sykdom+i+familien/omsorgsdager), samt rutinekontroller på helsestasjon, føres på  *Internt - Sykt barn*.
+
 ### Egenmelding
 
 Man har 12 egenmeldingsdager, som kan benyttes enkeltvis eller sammenhengende.
