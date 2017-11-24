@@ -9,10 +9,10 @@ Administrasjonen består av:
 
 - Jahn Arne Johnsen - Daglig leder
 - Knut Backer - Salgssjef
-
+---
 - Magne Davidsen - Leder for Teknologi
 - Jon Bernholdt Olsen - Leder for Design
-
+---
 - Erlend Oftedal - CTO
 - David McInnes - CDO
 
