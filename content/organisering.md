@@ -7,7 +7,7 @@ permalink: /organisering/
 ## Administrasjon
 Administrasjonen består av:
 
-Navn | Rolle | 
+Navn | Rolle | Rolletype
 ------ | ----- | --------------------
 Jahn Arne Johnsen | Daglig leder | Administrasjon (fulltid)
 Knut Backer | Salgssjef | Administrasjon (fulltid)
