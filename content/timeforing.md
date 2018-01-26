@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: Timeføring og fravær
 permalink: /timeforing/
