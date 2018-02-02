@@ -35,7 +35,7 @@ Blank sparer 5,5% av lønn mellom 0G og 12G i innskuddspensjon. Logg inn på [ww
 
 ### Forsikringer
 
-Forsikringsavtalen vår [finner du her](https://drive.google.com/open?id=0B3xWqhoxf9E_NVd3WDhZNUFETzQ) 
+Forsikringsavtalen vår [finner du her](https://drive.google.com/open?id=0B3xWqhoxf9E_NVd3WDhZNUFETzQ)
 
 Mer informasjon om hvordan man benytter de forskjellige forsikringene [finner du her](https://docs.google.com/document/d/1p2FoxN2ZB6yZblH87y4mz1KM_uBvditi5hTvZ2oZG1A/edit)
 
@@ -56,3 +56,7 @@ Internett hjemme hos arbeidstaker dekkes av selskapet. Øvre grense er 500 kr in
 
 ### Mobil
 Abonnement for mobiltelefoni dekkes av selskapet. Dette kan brukes fritt innenfor Europa, med unntak av innholdstjenester.
+
+### Treningsutstyr
+
+Blank dekker inntil 1000 kr i året ved kjøp av utstyr eller klær relatert til trening.
