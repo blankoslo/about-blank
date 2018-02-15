@@ -10,3 +10,6 @@ Innkjøp utgiftsføres i [Tripletex](https://www.tripletex.no/). Velg "Lønn" og
 ## Utstyrsliste
 
 I tillegg til utgiftsføring i Tripletex ønsker vi å holde en oversikt over materielle innkjøp ( > ~500 kr ) i et eget skjema. Før opp innkjøpene på [Utstyrslisten](https://drive.google.com/open?id=1K-okaHKiYPvpR9Bf_p4dm63qcQ_Xl5qT58ZjIAmt3RY).
+
+## Databriller
+Blank dekker (i henhold til [Arbeidstilsynets regelverk](https://www.arbeidstilsynet.no/tema/ergonomi/arbeid-ved-dataskjerm/synsundersoking-og-databriller/)) utgifter i forbindelse med synsundersøkelse for ansatte som tror de trenger databriller. Dersom man trenger egne briller til skjermbruk dekker Blank ett par standard databriller.
