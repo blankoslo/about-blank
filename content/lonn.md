@@ -31,13 +31,11 @@ Bonus utbetales sammen med første månedslønn etter kvartalslutt. Eksempelvis 
 
 ### Pensjon
 
-Blank sparer 5,5% av lønn mellom 0G og 12G i innskuddspensjon. Logg inn på [www.danica.no](http://www.danica.no) med BankID dersom du ønsker å justere risikoprofilen for din pensjonssparing.
+Blank sparer 5,5% av lønn mellom 0G og 12G i innskuddspensjon. Logg inn på [www.gjensidige.no](http://www.gjensidige.no) med BankID dersom du ønsker å justere risikoprofilen for din pensjonssparing.
 
 ### Forsikringer
 
-Forsikringsavtalen vår [finner du her](https://drive.google.com/open?id=0B3xWqhoxf9E_NVd3WDhZNUFETzQ) 
-
-Mer informasjon om hvordan man benytter de forskjellige forsikringene [finner du her](https://docs.google.com/document/d/1p2FoxN2ZB6yZblH87y4mz1KM_uBvditi5hTvZ2oZG1A/edit)
+Informasjon om hvordan man benytter de forskjellige forsikringene [finner du her](https://docs.google.com/document/d/1p2FoxN2ZB6yZblH87y4mz1KM_uBvditi5hTvZ2oZG1A/edit)
 
 #### Reiseforsikring
 Dekker arbeidstaker på jobbreise, og arbeidstaker med familie på fritidsreiser.
