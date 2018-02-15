@@ -53,4 +53,4 @@ Vi har en egen eiendomsforsikring som dekker skader på mobil utover den vanlige
 Internett hjemme hos arbeidstaker dekkes av selskapet. Øvre grense er 500 kr inkludert mva. i måneden.
 
 ### Mobil
-Abonnement for mobiltelefoni dekkes av selskapet. Dette kan brukes fritt innenfor Europa, med unntak av innholdstjenester.
+Abonnement for mobiltelefoni dekkes av selskapet. Dette kan brukes fritt innenfor EU/EØS, med unntak av innholdstjenester.
