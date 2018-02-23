@@ -32,20 +32,36 @@ Bonus utbetales sammen med første månedslønn etter kvartalslutt. Eksempelvis 
 ### Pensjon
 Blank sparer 5,5% av lønn mellom 0G og 12G i innskuddspensjon. Logg inn på [www.gjensidige.no](http://www.gjensidige.no) med BankID dersom du ønsker å justere risikoprofilen for din pensjonssparing.
 
-### Forsikringer
+### Forsikringer du har
 Informasjon om hvordan man benytter de forskjellige forsikringene [finner du her](https://docs.google.com/document/d/1p2FoxN2ZB6yZblH87y4mz1KM_uBvditi5hTvZ2oZG1A/edit)
 
 #### Reiseforsikring
-Dekker arbeidstaker på jobbreise, og arbeidstaker med familie på fritidsreiser.
+Blank dekker reiseforsikring hos Europeiske for deg, samboer og barn. Forsikringen gjelder reiser i hele verden inntil 45 dager, også fritidsreiser.
 
 #### Mobilforsikring
 Vi har en egen eiendomsforsikring som dekker skader på mobil utover den vanlige reiseforsikringen. Max sum 8000 kr, egenandelen er 1000 kr.
 
 #### Behandlingsforsikring
+Alle ansatte har tilgang til ubegrenset medisinsk rådgivning over telefon. I tillegg dekkes, for tilfeller som det offentlige helsevesen ikke dekker eller har lang ventetid konsultasjon, operasjon, fysioterapi, rehabilitering, reise og opphold, psykologisk førstehjelp og psykolog.
 
 #### Yrkesskade- og yrkessykdomsforsikring
+Gir en engangsutbetaling i de tilfeller man pådrar seg en skade eller sykdom gjennom jobb eller reise til og fra arbeid som gjør at man ikke kan jobbe fullt eller noe i det hele tatt.
 
-#### Uførepensjon -
+#### Uførepensjon
+Denne forsikringen sikrer deg en månedlig utbetaling frem til du blir pensjonist og gir deg 69 % av fastlønn opp til 12 G minus uførepensjon fra folketrygden. I tillegg kommer 10 % av 1 G som en ekstra utbetaling på toppen - uavhengig av lønnsnivå.
+
+#### Innskuddsfritak
+Dersom du blir minst 20 % ufør, dekker denne forsikringen innbetalinger til din pensjonskonto frem til du blir 67 år, utfra din lønn på det tidspunktet du ble ufør.
+
+### Forsikringer du _IKKE_ har
+
+#### Livsforsikring
+Noen selskaper har gruppelivsforsikring for alle sine ansatte, som betyr at _noen_ får utbetalt et engangsbeløp dersom du dør. Denne forsikringen har vi valgt å ikke ha i Blank. 
+
+Vurderingen er at de ansatte er i forskjellige livssituasjoner, og kan ha forskjellige behov når det gjelder dekning. Det er også store individuelle forskjeller på hvor dyr en slik forsikring er.
+
+#### Ulykkesforsikring
+Det er mulig å ha en forsikring som gir rett til engangsutbetaling ved skade eller sykdom også dersom tilfellet ikke skjer gjennom jobb (eller reise i jobb). Dette har vi ikke i Blank.
 
 ### Internett
 Internett hjemme hos arbeidstaker dekkes av selskapet. Øvre grense er 500 kr inkludert mva. i måneden.
