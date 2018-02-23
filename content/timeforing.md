@@ -18,11 +18,11 @@ Fakturerbare timer gjør man som man vil med, så lenge det er OK for kunden.
 Man skal som hovedregel kun føre timer på interne aktivteter dersom det er avklart. Følgende aktiviteter trenger ingen avklaring:
 
 - Innedag (7,5t)
-- Konferanse/kurs (7,5t)
+- Konferanse/kurs og reise i den forbindelse (7,5t)
 - Intervjuer og forberedelser
-- «Når man ikke har prosjekt» - Interntid 7,5t per dag
+- Faginnlegg og forberedelser
 
-Bruk av fleksitid og avspasering er OK, så lenge det er godkjent av kunde og kollegaer.
+Man opparbeider seg ikke overtid eller avspasering på internkoder, med mindre arbeidet er pålagt.
 
 ### Avspaseringskonto
 Det er alltid OK å være mellom 37,5 timer i pluss eller minus på “avspaseringskontoen”. Dersom man går utenfor dette må man ta ut overtidsbetaling (dersom man har overtidsberettigede timer), avspasere eller jobbe inn/bruke ferie for å komme ajour.
