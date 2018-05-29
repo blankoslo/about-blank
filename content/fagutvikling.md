@@ -6,7 +6,13 @@ permalink: /fagutvikling/
 
 ## Innedager
 
-Vi gjennomfører ti innedager i løpet av hvert år. Som hovedregel er første fredag i hver måned innedag.  
+Vi gjennomfører ti innedager i løpet av hvert år. Fokuset er på fagutvikling, og man styrer selv hva man ønsker å bruke tiden på. I tillegg presenteres resultatene fra foregående måned, og en kort status.
+
+Som hovedregel er første fredag i hver måned innedag.
+
+## Innekvelder
+
+Torsdagkveld før innedagen arrengeres «innekveld». Dette er et lavterskeltilbud til de som frivillig ønsker å samles på kontoret for å tjuvstarte litt på innedagen. Blank dekker mat og drikke, men man fører ikke timer.
 
 ## Konferanser
 
