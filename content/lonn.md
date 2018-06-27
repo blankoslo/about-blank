@@ -36,7 +36,7 @@ Blank sparer 5,5% av lønn mellom 0G og 12G i innskuddspensjon. Logg inn på [ww
 Informasjon om hvordan man benytter de forskjellige forsikringene [finner du her](https://docs.google.com/document/d/1p2FoxN2ZB6yZblH87y4mz1KM_uBvditi5hTvZ2oZG1A/edit)
 
 #### Reiseforsikring
-Blank dekker reiseforsikring hos Europeiske for deg, samboer og barn. Forsikringen gjelder reiser i hele verden inntil 45 dager, også fritidsreiser.
+Blank dekker reiseforsikring hos Gouda for deg, samboer og barn. Forsikringen gjelder reiser i hele verden inntil 45 dager, også fritidsreiser.
 
 #### Mobilforsikring
 Vi har en egen eiendomsforsikring som dekker skader på mobil utover den vanlige reiseforsikringen. Max sum 8000 kr, egenandelen er 1000 kr.
