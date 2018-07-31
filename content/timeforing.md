@@ -24,6 +24,10 @@ Man skal som hovedregel kun føre timer på interne aktivteter dersom det er avk
 
 Man opparbeider seg ikke overtid eller avspasering på internkoder, med mindre arbeidet er pålagt.
 
+### Ferie og avspasering
+
+Når man er på ferie fører man 7,5 timer per arbeidsdag på timeføringskoden for ferie. Dersom man avspaserer fører man ikke timer.
+
 ### Avspaseringskonto
 Det er alltid OK å være mellom 37,5 timer i pluss eller minus på “avspaseringskontoen”. Dersom man går utenfor dette må man ta ut overtidsbetaling (dersom man har overtidsberettigede timer), avspasere eller jobbe inn/bruke ferie for å komme ajour.
 
