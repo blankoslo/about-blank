@@ -6,16 +6,16 @@ permalink: /timeforing/
 
 ## Personalledelse
 
-I Blank velger man selv sin egen personalleder blant en av personene i administrasjonen eller fagledelsen. Dette for å øke sannsynligheten for at alle ansatte har en personalleder de kommuniserer godt med. Frem til man har valgt personalleder er det «Leder, teknologi» som har ansvaret for teknologer, og «Leder, design» som har ansvaret for designere. Man kan når som helst velge å bytte personalleder, uten at dette trenger noen forklaring.
+Alle i Blank skal ha en personalleder. Man velger sin egen personalleder blant personene i [administrasjonen eller fagledelsen](/#/organisering/), og man kan når som helst bytte personalleder. Frem til man har valgt personalleder er det «Leder, teknologi» som har ansvaret for teknologer, og «Leder, design» som har ansvaret for designere.
 
 Personalleder følger opp den ansattes:
 
 - bemanning (engasjement og prosjekt)
-- fastsettelse av lønn
+- lønn
 - faglige utvikling
 - generelle trivsel
 
-De ansatte skal få tilbud om medarbeidersamtale minst to ganger i året.
+De ansatte skal få tilbud om fysisk samtale minst to ganger i året.
 
 ## HMS og verneombud
 
