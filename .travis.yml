@@ -2,6 +2,9 @@ language: ruby
 rvm:
 - 2.2.5
 
+before_install:
+- gem install bundler -v ‘< 2’
+
 script: bundle exec jekyll build
 
 sudo: false # route your build to the container-based infrastructure for a faster build
