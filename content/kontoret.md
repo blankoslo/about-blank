@@ -25,3 +25,5 @@ Når man er koblet til det trådløse nettet kan man spille til høyttalerne med
 Skyll igjennom med vann etter bruk. Det finnes en egen vaskebøtte til dette. En gang i blant må vi skylle igjennom med kjemikalier. Man lager da en tynn blading (1:80) med vaskemiddel og vann, skyller gjennom og lar dette virket i en halvtime. Deretter skyller man igjennom med 5 liter vann.
 
 Dersom man ikke skyller igjennom er det viktig å la fatene være koblet til, og la tappetårnet være påskrudd. Dersom trykket faller kommer det luft i systemet, og man kan få meget trøbbel.
+
+Loggfør renhold og andre praktiske hendelser med tappetårnet på Google Drive [her](https://drive.google.com/open?id=12dMDQAyuNo45Sak9J4j5F3i7CQ672nbq9CNFzQ4Zzmw).
