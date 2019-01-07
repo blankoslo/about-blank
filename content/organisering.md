@@ -28,7 +28,7 @@ Knut Backer | Styremedlem | Majoritetsaksjonærene
 Yngvar Johnsen | Styremedlem | Minoritetsaksjonærene
 Ole Jacob Syrdahl | Styremedlem | Ansattrepresentant
 Lars Smeby | Varamedlem | Minoritetsaksjonærene
- | Varamedlem | Ansattrepresentant
+
 
 
 
