@@ -14,7 +14,7 @@ Knut Backer | Salgssjef | Administrasjon (fulltid)
 Magne Davidsen | Leder for Teknologi | Administrasjon (deltid)
 Jon Bernholdt Olsen | Leder for Design | Administrasjon (deltid)
 Erlend Oftedal | CTO | Fagledelse
-David McInnes | CDO | Fagledelse
+Haydn Evans | CDO | Fagledelse
 
 
 ## Styret og ansattrepresentanter
@@ -26,9 +26,9 @@ Magne Davidsen | Styreleder | Majoritetsaksjonærene
 Jon Bernholdt Olsen | Styrets nestleder | Majoritetsaksjonærene
 Knut Backer | Styremedlem | Majoritetsaksjonærene
 Yngvar Johnsen | Styremedlem | Minoritetsaksjonærene
-Tone Nordbø | Styremedlem | Ansattrepresentant
+Ole Jacob Syrdahl | Styremedlem | Ansattrepresentant
 Lars Smeby | Varamedlem | Minoritetsaksjonærene
-Ole Jacob Syrdahl | Varamedlem | Ansattrepresentant
+ | Varamedlem | Ansattrepresentant
 
 
 
