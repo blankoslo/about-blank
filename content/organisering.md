@@ -33,4 +33,4 @@ Ragnhild Byrkjeland | Varamedlem | Minoritetsaksjonærene
 
 
 
-Representant for minoritetsaksjonær og representant for de ansatte velges for to år av gangen. Siste valg ble gjennomført juni 2017.
+Representant for minoritetsaksjonær og representant for de ansatte velges for to år av gangen. Siste valg ble gjennomført mai 2019.
