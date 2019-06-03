@@ -25,9 +25,10 @@ Navn | Rolle | Representant for
 Magne Davidsen | Styreleder | Majoritetsaksjonærene
 Jon Bernholdt Olsen | Styrets nestleder | Majoritetsaksjonærene
 Knut Backer | Styremedlem | Majoritetsaksjonærene
-Yngvar Johnsen | Styremedlem | Minoritetsaksjonærene
-Ole Jacob Syrdahl | Styremedlem | Ansattrepresentant
-Lars Smeby | Varamedlem | Minoritetsaksjonærene
+Ole Jacob Syrdahl | Styremedlem | Minoritetsaksjonærene
+Aida Cortes Lopez | Styremedlem | Ansattrepresentant
+Yngvar Johnsen | Varamedlem | Ansattrepresentant
+Ragnhild Byrkjeland | Varamedlem | Minoritetsaksjonærene
 
 
 
