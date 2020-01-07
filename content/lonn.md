@@ -39,7 +39,7 @@ Informasjon om hvordan man benytter de forskjellige forsikringene [finner du her
 Blank dekker reiseforsikring hos Gouda for deg, samboer og barn. Forsikringen gjelder reiser i hele verden inntil 45 dager, også fritidsreiser.
 
 #### Mobilforsikring
-Vi har en egen eiendomsforsikring som dekker skader på mobil utover den vanlige reiseforsikringen. Max sum 8000 kr, egenandelen er 1000 kr.
+Vi har en egen eiendomsforsikring som dekker skader på mobil utover den vanlige reiseforsikringen. Max sum 10 000 kr, egenandelen er 1000 kr.
 
 #### Behandlingsforsikring
 Alle ansatte har tilgang til ubegrenset medisinsk rådgivning over telefon. I tillegg dekkes, for tilfeller som det offentlige helsevesen ikke dekker eller har lang ventetid konsultasjon, operasjon, fysioterapi, rehabilitering, reise og opphold, psykologisk førstehjelp og psykolog.
