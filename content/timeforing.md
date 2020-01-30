@@ -26,15 +26,22 @@ Man opparbeider seg ikke overtid eller avspasering på internkoder, med mindre a
 
 ### Ferie og avspasering
 
-Når man er på ferie fører man 7,5 timer per arbeidsdag på timeføringskoden for ferie. Dersom man avspaserer fører man ikke timer.
+Ferie og avspasering avklares med team/kunde og deretter legges inn i fraværskalenderen. 
+
+Når man er på ferie fører man 7,5 timer per fulle arbeidsdag på timeføringskoden for ferie. Det er også er mulig å føre mindre enn hele dager ferie.
+
+Dersom man avspaserer fører man ikke timer.
+
 
 ### Avspaseringskonto
 Det er alltid OK å være mellom 37,5 timer i pluss eller minus på “avspaseringskontoen”. Dersom man går utenfor dette må man ta ut overtidsbetaling (dersom man har overtidsberettigede timer), avspasere eller jobbe inn/bruke ferie for å komme ajour.
 
 ## Høytids- og helligdager
-I tillegg til alle offentlige norske helligdager, behandler selskapet alle dager fra og med julaften til og med nyttårsaften som helligdager. Dette betyr at man ikke trenger å bruke ferie for å ha fri disse dagene.
+I tillegg til alle offentlige norske helligdager, behandler selskapet alle dager fra og med julaften til og med nyttårsaften som helligdager. Dette betyr at man ikke trenger å benytte ferie eller avspasering for å ha fri disse dagene.
 
 ## Permisjoner
+Husk å informere team/kunde og å legge det inn i fraværskalenderen. 
+
 
 ### Fødsels-, svangerskaps- og barselpermisjon
 
@@ -64,7 +71,7 @@ Alt som er definert av NAV som [omsorgsdager](https://www.nav.no/no/Person/Famil
 
 ### Egenmelding
 
-Man har 12 egenmeldingsdager, som kan benyttes enkeltvis eller sammenhengende.
+Man har 12 egenmeldingsdager, som kan benyttes enkeltvis eller sammenhengende. Disse dagene trenger man ikke legeerklæring for.
 
 ### Sykemelding
 

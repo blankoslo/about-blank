@@ -14,9 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: about:blank
-email: innboks@blankoslo.no
-description: > # this means to ignore newlines until "baseurl:"
-  En form for "personalhåndbok" for ansatte i Blank. Patches accepted!
+email: innboks@blank.no
+description: En form for "personalhåndbok" for ansatte i Blank.
+
+Tanken er at denne siden til enhver tid skal reflektere rutiner og ordninger vi har i Blank. Vi har ofte diskusjoner som ender med at vi blir enig om en praksis, og i de tilfellene er det fint å ha et sted å dokumentere. Alle som jobber i Blank er velkommen til å foreslå endringer.
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: blankoslo

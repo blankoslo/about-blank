@@ -4,10 +4,6 @@ title: Hjelp
 permalink: /hjelp/
 ---
 
-## Om about:blank
-
-Tanken er at denne siden til enhver tid skal reflektere rutiner og ordninger vi har i Blank. Vi har ofte diskusjoner som ender med at vi blir enig om en praksis, og i de tilfellene er det fint å ha et sted å dokumentere. Alle som jobber i Blank er velkommen til å foreslå endringer.
-
 ## Endre innhold
 
 Dersom du ønsker å bidra ved å endre eller legge til innhold, kan du gjøre dette direkte ved å redigere eller legge til markdown-filer her på [Github](https://github.com/blankoslo/about-blank/tree/master/content). Hver fil følger en mal, og ender opp som et eget menypunkt på siden.
