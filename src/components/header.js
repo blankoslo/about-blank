@@ -5,10 +5,7 @@ import React from "react"
 const Header = ({ subtitle, title, description }) => (
     <div className="header">
       <div>
-        <Link
-          to="/"
-          className="title"
-        >
+        <Link to="/" className="title">
           {title}
         </Link>
       </div>
