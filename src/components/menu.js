@@ -1,7 +1,6 @@
-import { Link } from "gatsby"
-import PropTypes from "prop-types"
-import React, { Fragment } from "react"
 import { AnchorLink } from "gatsby-plugin-anchor-links";
+import PropTypes from "prop-types";
+import React from "react";
 
 const Menu = ({ chapters }) => (
     <div className="sidebar">

@@ -1,8 +1,6 @@
-import React from "react"
-import { AnchorLink } from "gatsby-plugin-anchor-links";
+import React from "react";
+import Layout from "../components/layout";
 
-import Layout from "../components/layout"
-import Menu from "../components/menu";
 
 export default function Index({ data }) {
   const { edges: chapters } = data.allMarkdownRemark
