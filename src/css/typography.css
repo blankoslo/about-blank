@@ -1,0 +1,113 @@
+@font-face {
+    font-family: "Sang Bleu Empire";
+    src: url("../fonts/SangBleuEmpire-Regular.otf");
+    font-weight: 400;
+    font-style: normal;
+  }
+
+@font-face {
+    font-family: "Sang Bleu Empire";
+    src: url("../fonts/SangBleuEmpire-RegularItalic.otf");
+    font-weight: 400;
+    font-style: italic;
+  }
+
+@font-face {
+    font-family: "Sang Bleu Empire";
+    src: url("../fonts/SangBleuEmpire-Medium.otf");
+    font-weight: 500;
+    font-style: normal;
+  }
+
+@font-face {
+    font-family: "Sang Bleu Empire";
+    src: url("../fonts/SangBleuEmpire-MediumItalic.otf");
+    font-weight: 500;
+    font-style: italic;
+  }
+
+
+@font-face {
+    font-family: "Sang Bleu Empire";
+    src: url("../fonts/SangBleuEmpire-Bold.otf");
+    font-weight: 700;
+    font-style: normal;
+  }
+
+@font-face {
+    font-family: "Sang Bleu Empire";
+    src: url("../fonts/SangBleuEmpire-BoldItalic.otf");
+    font-weight: 700;
+    font-style: italic;
+  }
+
+@font-face {
+    font-family: "Sang Bleu Empire";
+    src: url("../fonts/SangBleuEmpire-Black.otf");
+    font-weight: 900;
+    font-style: normal;
+  }
+
+@font-face {
+    font-family: "Sang Bleu Empire";
+    src: url("../fonts/SangBleuEmpire-BlackItalic.otf");
+    font-weight: 900;
+    font-style: italic;
+  }
+
+ @font-face {
+    font-family: "Sang Bleu Kingodm";
+    src: url("../fonts/SangBleuKingdom-Regular.otf");
+    font-weight: 400;
+    font-style: normal;
+  }
+
+@font-face {
+    font-family: "Sang Bleu Kingdom";
+    src: url("../fonts/SangBleuKingdom-RegularItalic.otf");
+    font-weight: 400;
+    font-style: italic;
+  }
+
+@font-face {
+    font-family: "Sang Bleu Kingdom";
+    src: url("../fonts/SangBleuKingdom-Medium.otf");
+    font-weight: 500;
+    font-style: normal;
+  }
+
+@font-face {
+    font-family: "Sang Bleu Kingdom";
+    src: url("../fonts/SangBleuKingdom-MediumItalic.otf");
+    font-weight: 500;
+    font-style: italic;
+  }
+
+
+@font-face {
+    font-family: "Sang Bleu Kingdom";
+    src: url("../fonts/SangBleuKingdom-Bold.otf");
+    font-weight: 700;
+    font-style: normal;
+  }
+
+@font-face {
+    font-family: "Sang Bleu Kingdom";
+    src: url("../fonts/SangBleuKingdom-BoldItalic.otf");
+    font-weight: 700;
+    font-style: italic;
+  }
+
+@font-face {
+    font-family: "Sang Bleu Kingdom";
+    src: url("../fonts/SangBleuKingdom-Light.otf");
+    font-weight: 300;
+    font-style: normal;
+  }
+
+@font-face {
+    font-family: "Sang Bleu Kingdom";
+    src: url("../fonts/SangBleuKingdom-LightItalic.otf");
+    font-weight: 300;
+    font-style: italic;
+  }

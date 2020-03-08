@@ -1,10 +1,18 @@
+
+$blank-lila-bright:    #6600FF;
+$blank-lila-dark:    #3C1345;
+$blank-pink: #FE386E;
+$blank-yellow: #FFF081;
+
+$body-font: "Work Sans";
+
 html {
-  font-family: sans-serif;
+  font-family: "Work Sans";
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
 body {
-  margin: 0;
+  margin: 20px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -41,6 +49,7 @@ template {
 }
 a {
   background-color: transparent;
+  color: inherit;
   -webkit-text-decoration-skip: objects;
 }
 a:active,
@@ -185,7 +194,7 @@ textarea {
   font: inherit;
 }
 html {
-  font: 112.5%/1.45em georgia, serif;
+  font: 125%/1.5em "Work Sans";
   box-sizing: border-box;
   overflow-y: scroll;
 }
@@ -199,8 +208,8 @@ html {
   box-sizing: inherit;
 }
 body {
-  color: hsla(0, 0%, 0%, 0.8);
-  font-family: georgia, serif;
+  color: $blank-lila-dark;
+  font-family: $body-font;
   font-weight: normal;
   word-wrap: break-word;
   font-kerning: normal;
@@ -227,33 +236,45 @@ h1 {
   padding-bottom: 0;
   padding-left: 0;
   padding-right: 0;
-  padding-top: 0;
+  padding-top: 1.4rem;;
   margin-bottom: 1.45rem;
-  color: inherit;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-  font-weight: bold;
+  color: $blank-lila-dark;
+  font-family: "Sang Bleu Empire";
+  font-weight: 500;
   text-rendering: optimizeLegibility;
   font-size: 2.25rem;
   line-height: 1.1;
+  position: relative;
 }
+
+h1:after {
+  content: "";
+  background: $blank-lila-bright;
+  position: absolute;
+  top: 0;
+  left: 2px;
+  height: 0.625rem;
+  width: 2.5rem;
+}
+
 h2 {
   margin-left: 0;
   margin-right: 0;
-  margin-top: 0;
+  margin-top: 2rem;
   padding-bottom: 0;
   padding-left: 0;
   padding-right: 0;
   padding-top: 0;
-  margin-bottom: 1.45rem;
-  color: inherit;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-  font-weight: bold;
+  margin-bottom: 0.5rem;
+  color: $blank-lila-bright;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 500;
   text-rendering: optimizeLegibility;
-  font-size: 1.62671rem;
+  font-size: 1.2rem;
   line-height: 1.1;
 }
+
+
 h3 {
   margin-left: 0;
   margin-right: 0;
@@ -262,14 +283,13 @@ h3 {
   padding-left: 0;
   padding-right: 0;
   padding-top: 0;
-  margin-bottom: 1.45rem;
+  margin-bottom: 0.5rem;
   color: inherit;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: "Work Sans", sans-serif;
   font-weight: bold;
   text-rendering: optimizeLegibility;
-  font-size: 1.38316rem;
-  line-height: 1.1;
+  font-size: 1rem;
+  line-height: 1;
 }
 h4 {
   margin-left: 0;
@@ -279,7 +299,7 @@ h4 {
   padding-left: 0;
   padding-right: 0;
   padding-top: 0;
-  margin-bottom: 1.45rem;
+  margin-bottom: 0.3rem;
   color: inherit;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
@@ -577,8 +597,8 @@ th {
   -webkit-font-feature-settings: "tnum";
   padding-left: 0.96667rem;
   padding-right: 0.96667rem;
-  padding-top: 0.725rem;
-  padding-bottom: calc(0.725rem - 1px);
+  padding-top: 0.25rem;
+  padding-bottom: calc(0.25rem - 1px);
 }
 th:first-child,
 td:first-child {
@@ -619,4 +639,100 @@ pre tt:after {
   html {
     font-size: 100%;
   }
+}
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+  display: grid;
+  grid-gap: 20px;
+  grid-template-columns: 5fr 3fr;
+  grid-template-areas: "header . " "innhold sidebar" "footer footer";
+  
+}
+
+@media (max-width: 700px) {
+  .container {
+    grid-template-columns: 1fr;
+    grid-template-areas: "header" "innhold" "footer";
+  }
+}
+
+.content {
+  grid-area: innhold;
+}
+
+.header {
+  grid-area: header;
+  margin-top: 2rem;
+}
+
+.sidebar {
+  grid-area: sidebar;
+  text-align: right;
+  position: relative;
+  height: auto;
+}
+
+.menupunkt {
+  font-size: 1em;
+  color: $blank-lila-bright;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.reducedDistance {
+  margin-bottom: 0.5rem;
+}
+
+
+.kapittel {
+  margin-bottom: 5rem;
+  position: relative;
+  height: auto;
+}
+
+.sticky{
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+  background-color: white;
+}
+
+.title {
+  color: $blank-yellow;
+  font-size: 5rem;
+  font-family: "Sang Bleu Empire";
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.subtitle {
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  padding-bottom: 0;
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 1.4rem;
+  margin-bottom: 0.5rem;
+  color: $blank-lila-dark;
+  font-family: "Sang Bleu Empire";
+  font-weight: 500;
+  text-rendering: optimizeLegibility;
+  font-size: 2.25rem;
+  line-height: 1.1;
+}
+
+.description {
+  font-family: "Sang Bleu Kingdom";
+  color: $blank-lila-bright;
+  font-size: 1.4rem;
+  line-height: 1.4em;
+  font-weight: 400;
+  margin-top: 0;
+  margin-bottom: 2rem;
 }

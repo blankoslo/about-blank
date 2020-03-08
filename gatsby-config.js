@@ -1,10 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `about:blank`,
+    subtitle: `En form for "personalhåndbok" for ansatte i Blank.`,
+    description: `Tanken er at denne siden til enhver tid skal reflektere rutiner og ordninger vi har i Blank. Vi har ofte diskusjoner som ender med at vi blir enig om en praksis, og i de tilfellene er det fint å ha et sted å dokumentere. Alle som jobber i Blank er velkommen til å foreslå endringer.`,
+    author: `clara`,
+    email: `innboks@blank.no`,
+    tel: `982 19 394`
   },
   plugins: [
+    `gatsby-plugin-sass`,
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-source-filesystem`,
@@ -26,7 +30,21 @@ module.exports = {
         display: `minimal-ui`,
         icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
       },
+    },    
+    `gatsby-transformer-remark`,
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `content`,
+        path: `src/content`,
+      },
     },
+    {
+      resolve: `gatsby-plugin-anchor-links`,
+      options: {
+        offset: -20
+      }
+    }
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,

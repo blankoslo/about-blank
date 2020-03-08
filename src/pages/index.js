@@ -1,21 +1,45 @@
 import React from "react"
-import { Link } from "gatsby"
+import { AnchorLink } from "gatsby-plugin-anchor-links";
 
 import Layout from "../components/layout"
-import Image from "../components/image"
-import SEO from "../components/seo"
+import Menu from "../components/menu";
 
-const IndexPage = () => (
-  <Layout>
-    <SEO title="Home" />
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
-    <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-      <Image />
-    </div>
-    <Link to="/page-2/">Go to page 2</Link>
-  </Layout>
-)
-
-export default IndexPage
+export default function Index({ data }) {
+  const { edges: chapters } = data.allMarkdownRemark
+  return (
+    <Layout>
+      <div>
+        {chapters
+          .filter(chapter => chapter.node.frontmatter.title.length > 0)
+          .map(({ node: chapter }) => {
+            return (
+              <div className="kapittel" key={chapter.id}>
+                  <h1 className="sticky" id={chapter.frontmatter.path}>{chapter.frontmatter.title} </h1>
+                <div dangerouslySetInnerHTML={{ __html: chapter.html }} />
+              </div>
+            )
+          })}
+      </div>
+      
+    </Layout>
+  )
+}
+export const pageQuery = graphql`
+  query IndexQuery {
+    allMarkdownRemark
+      (sort: { fields: [frontmatter___title], order: ASC })
+      {edges {
+        node {
+          excerpt(pruneLength: 250)
+          id
+          html
+          frontmatter {
+            title
+            path
+            layout
+          }
+        }
+      }
+    }
+  }
+`
