@@ -33,11 +33,16 @@ const Layout = ({ children }) => {
       }
       site {
         siteMetadata {
+          friendly
           title
           subtitle
           description
+          name
+          adress
+          zip
           email
           tel
+          instagram
         }
       }
     }
@@ -53,9 +58,10 @@ const Layout = ({ children }) => {
       <Header subtitle={meta.subtitle} title={meta.title} description={meta.description} />
       <div className="content">{children}</div>
       <Menu chapters={chapters} />
-      <Footer footerData={data.site.siteMetadata} />
       </div>
+    <Footer footerData={data.site.siteMetadata} />
     </>
+  
   )
 }
 

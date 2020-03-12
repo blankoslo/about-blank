@@ -1,6 +1,6 @@
 
-$blank-lila-bright:    #6600FF;
-$blank-lila-dark:    #3C1345;
+$blank-lila-bright: #6600FF;
+$blank-lila-dark: #3C1345;
 $blank-pink: #FE386E;
 $blank-yellow: #FFF081;
 
@@ -12,7 +12,7 @@ html {
   -webkit-text-size-adjust: 100%;
 }
 body {
-  margin: 20px;
+  margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -233,7 +233,7 @@ h1 {
   margin-left: 0;
   margin-right: 0;
   margin-top: 0;
-  padding-bottom: 0;
+  padding-bottom: 15px;
   padding-left: 0;
   padding-right: 0;
   padding-top: 1.4rem;;
@@ -245,6 +245,12 @@ h1 {
   font-size: 2.25rem;
   line-height: 1.1;
   position: relative;
+}
+
+@media (max-width: 700px) {
+    h1{
+        font-size: 1.40rem
+    }
 }
 
 h1:after {
@@ -268,7 +274,7 @@ h2 {
   margin-bottom: 0.5rem;
   color: $blank-lila-bright;
   font-family: "Work Sans", sans-serif;
-  font-weight: 500;
+  font-weight: 600;
   text-rendering: optimizeLegibility;
   font-size: 1.2rem;
   line-height: 1.1;
@@ -278,7 +284,7 @@ h2 {
 h3 {
   margin-left: 0;
   margin-right: 0;
-  margin-top: 0;
+  margin-top: 20px;
   padding-bottom: 0;
   padding-left: 0;
   padding-right: 0;
@@ -404,7 +410,7 @@ p {
   padding-left: 0;
   padding-right: 0;
   padding-top: 0;
-  margin-bottom: 1.45rem;
+  margin-bottom: 1.2rem;
 }
 figure {
   margin-left: 0;
@@ -438,7 +444,7 @@ table {
   padding-right: 0;
   padding-top: 0;
   margin-bottom: 1.45rem;
-  font-size: 1rem;
+  font-size: 0.8rem;
   line-height: 1.45rem;
   border-collapse: collapse;
   width: 100%;
@@ -595,11 +601,12 @@ th {
   -moz-font-feature-settings: "tnum";
   -ms-font-feature-settings: "tnum";
   -webkit-font-feature-settings: "tnum";
-  padding-left: 0.96667rem;
+  padding-left: 0rem;
   padding-right: 0.96667rem;
-  padding-top: 0.25rem;
-  padding-bottom: calc(0.25rem - 1px);
+  padding-top: 0.65rem;
+  padding-bottom: calc(0.45rem - 0px);
 }
+
 th:first-child,
 td:first-child {
   padding-left: 0;
@@ -641,18 +648,26 @@ pre tt:after {
   }
 }
 
+
 .container {
   max-width: 1440px;
-  margin: 0 auto;
+  margin: 20px auto 0 100px;
   display: grid;
   grid-gap: 20px;
-  grid-template-columns: 5fr 3fr;
-  grid-template-areas: "header . " "innhold sidebar" "footer footer";
-  
+  grid-template-columns: 5fr auto;
+  grid-template-areas: "header . " "innhold sidebar" "footer footer"; 
 }
+
+@media (max-width: 1024px) {
+  .container {
+    margin: 20px auto 0 10px;
+  }
+}
+
 
 @media (max-width: 700px) {
   .container {
+    margin: 0 auto 0 20px;
     grid-template-columns: 1fr;
     grid-template-areas: "header" "innhold" "footer";
   }
@@ -662,27 +677,86 @@ pre tt:after {
   grid-area: innhold;
 }
 
-.header {
-  grid-area: header;
-  margin-top: 2rem;
+@media (max-width: 700px) {
+  .content {
+    grid-area: innhold;
+    width: 100%;
+    max-width: 390px;
+    }
 }
 
-.sidebar {
+.header {
+  grid-area: header;
+  max-width: 690px;
+}
+
+@media (max-width: 700px) {
+  .header {
+    max-width: 340px;
+    }
+}
+
+.sidebar{
   grid-area: sidebar;
   text-align: right;
   position: relative;
   height: auto;
+  z-index: 4000;
+  margin-right: 10px;
+}
+
+@media (max-width: 700px) {
+    .sidebar{
+        position: fixed;
+        top: 0px;
+        right: 0px;
+        width: 100%;
+        background: #fff;
+        z-index: 2000;
+        padding: 70px;
+    }
+}
+
+.footer{
+  background: $blank-lila-dark;
+  color: #fff; 
+  padding: 60px 0 30px 100px;
+}
+
+@media (max-width: 700px) {
+    .footer{
+      padding: 60px 0 30px 20px;
+    }
+  }
+
+.inf{
+  line-height: 0.2em;
+  margin-bottom: 60px;
+}
+
+.friendly{
+    font-size: 2em;
+    font-family: "Sang Bleu Empire";
+    color: $blank-pink;
+    width: 9em;
+    line-height: 1.3em;
 }
 
 .menupunkt {
   font-size: 1em;
   color: $blank-lila-bright;
   text-decoration: none;
-  font-weight: 500;
+  font-weight: 600;
+}
+
+.menupunkt:hover {
+  text-decoration: underline;
 }
 
 .reducedDistance {
-  margin-bottom: 0.5rem;
+    margin-bottom: 1.35rem;
+    margin-right: 0.2rem;
+    line-height: 1.2em;
 }
 
 
@@ -690,11 +764,11 @@ pre tt:after {
   margin-bottom: 5rem;
   position: relative;
   height: auto;
+  max-width: 680px;
 }
 
 .sticky{
   position: sticky;
-  position: -webkit-sticky;
   top: 0;
   left: 0;
   right: 0;
@@ -702,12 +776,29 @@ pre tt:after {
   background-color: white;
 }
 
-.title {
-  color: $blank-yellow;
-  font-size: 5rem;
+.prefix {
+  color: $blank-lila-bright;
+  font-size: 3.4rem;
   font-family: "Sang Bleu Empire";
   font-weight: 600;
   text-decoration: none;
+  z-index: 100;
+  position: relative;
+  line-height: 1.6em;
+}
+
+.title {
+  color: $blank-yellow;
+  font-size: 12rem;
+  font-family: "Sang Bleu Empire";
+  font-weight: 800;
+  text-decoration: none;
+}
+
+@media (max-width: 700px) {
+    .title{
+        position: absolute;
+    }
 }
 
 .subtitle {
@@ -717,7 +808,7 @@ pre tt:after {
   padding-bottom: 0;
   padding-left: 0;
   padding-right: 0;
-  padding-top: 1.4rem;
+  padding-top: 0.35rem;
   margin-bottom: 0.5rem;
   color: $blank-lila-dark;
   font-family: "Sang Bleu Empire";
@@ -725,6 +816,13 @@ pre tt:after {
   text-rendering: optimizeLegibility;
   font-size: 2.25rem;
   line-height: 1.1;
+}
+
+@media (max-width: 700px) {
+    .subtitle{
+        margin-top: 100px;
+        width: 100%;
+    }
 }
 
 .description {
@@ -735,4 +833,34 @@ pre tt:after {
   font-weight: 400;
   margin-top: 0;
   margin-bottom: 2rem;
+}
+
+
+@media (max-width: 700px) {
+    .description{
+        width: 100%;
+        font-size: 1.2em;
+    }
+}
+
+@media (min-width: 700px) {
+    .menu_btn{
+        display:none;
+    }
+}
+
+.menu_btn{
+        position: fixed;
+        z-index: 3000;
+        top: 0;
+        right: 0;
+        padding: 10px 15px; 
+    }
+
+.line{
+    background-color: #3c1345;
+    width: 2rem;
+    height: .3rem;
+    transition: top .2s ease-in-out;
+    margin-top: .45rem;
 }

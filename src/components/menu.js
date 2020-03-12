@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 import React from "react";
 
 const Menu = ({ chapters }) => (
-    <div className="sidebar">
+    <div className="sidebar" id="menu">
         <div className="sticky">
     {chapters
         .filter(chapter => chapter.node.frontmatter.title.length > 0)
