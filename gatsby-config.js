@@ -1,11 +1,19 @@
 module.exports = {
   siteMetadata: {
-    title: `about:blank`,
+    prefix: `About:`,
+    title: `blank`,
     subtitle: `En form for "personalhåndbok" for ansatte i Blank.`,
     description: `Tanken er at denne siden til enhver tid skal reflektere rutiner og ordninger vi har i Blank. Vi har ofte diskusjoner som ender med at vi blir enig om en praksis, og i de tilfellene er det fint å ha et sted å dokumentere. Alle som jobber i Blank er velkommen til å foreslå endringer.`,
     author: `clara`,
     email: `innboks@blank.no`,
-    tel: `982 19 394`
+    tel: `982 19 394`,
+    name: 'Blank AS',
+    adress: 'Youngs gt. 7',
+    zip: '0108 Oslo',
+    orgnr:'Org. nr: 915 43 3073',
+    instagram:'Instagram',
+    friendly: 'Kontakt oss, eller kom innom!',
+      
   },
   plugins: [
     `gatsby-plugin-sass`,
