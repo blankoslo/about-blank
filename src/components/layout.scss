@@ -664,15 +664,6 @@ pre tt:after {
     margin: 20px auto 0 10px;
   }
 }
-@media (max-width: 950px) {
-  .container {
-
-    grid-template-areas: "header" "innhold" "footer"; 
-  }
-}
-
-
-
 
 .content {
   grid-area: innhold;
