@@ -654,46 +654,34 @@ pre tt:after {
   margin: 20px auto 0 100px;
   display: grid;
   grid-gap: 20px;
-  grid-template-columns: 5fr auto;
+  grid-template-columns: repeat(auto-fit, minmax(690px, 1fr));  
   grid-template-areas: "header . " "innhold sidebar" "footer footer"; 
 }
+
 
 @media (max-width: 1024px) {
   .container {
     margin: 20px auto 0 10px;
   }
 }
-
-
-@media (max-width: 700px) {
+@media (max-width: 950px) {
   .container {
-    margin: 0 auto 0 20px;
-    grid-template-columns: 1fr;
-    grid-template-areas: "header" "innhold" "footer";
+
+    grid-template-areas: "header" "innhold" "footer"; 
   }
 }
+
+
+
 
 .content {
   grid-area: innhold;
 }
 
-@media (max-width: 700px) {
-  .content {
-    grid-area: innhold;
-    width: 100%;
-    max-width: 390px;
-    }
-}
 
 .header {
   grid-area: header;
-  max-width: 690px;
-}
-
-@media (max-width: 700px) {
-  .header {
-    max-width: 340px;
-    }
+  /* max-width: 690px; */
 }
 
 .sidebar{
@@ -705,7 +693,7 @@ pre tt:after {
   margin-right: 10px;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 950px) {
     .sidebar{
         position: fixed;
         top: 0px;
@@ -714,6 +702,7 @@ pre tt:after {
         background: #fff;
         z-index: 2000;
         padding: 70px;
+        height: 100%;
     }
 }
 
@@ -764,7 +753,6 @@ pre tt:after {
   margin-bottom: 5rem;
   position: relative;
   height: auto;
-  max-width: 680px;
 }
 
 .sticky{
@@ -795,12 +783,6 @@ pre tt:after {
   text-decoration: none;
 }
 
-@media (max-width: 700px) {
-    .title{
-        position: absolute;
-    }
-}
-
 .subtitle {
   margin-left: 0;
   margin-right: 0;
@@ -818,13 +800,6 @@ pre tt:after {
   line-height: 1.1;
 }
 
-@media (max-width: 700px) {
-    .subtitle{
-        margin-top: 100px;
-        width: 100%;
-    }
-}
-
 .description {
   font-family: "Sang Bleu Kingdom";
   color: $blank-lila-bright;
@@ -836,14 +811,9 @@ pre tt:after {
 }
 
 
-@media (max-width: 700px) {
-    .description{
-        width: 100%;
-        font-size: 1.2em;
-    }
-}
 
-@media (min-width: 700px) {
+
+@media (min-width: 950px) {
     .menu_btn{
         display:none;
     }
@@ -855,6 +825,9 @@ pre tt:after {
         top: 0;
         right: 0;
         padding: 10px 15px; 
+        border: none;
+        background-color: transparent;
+        cursor: pointer;
     }
 
 .line{

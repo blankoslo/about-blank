@@ -5,7 +5,7 @@
  * See: https://www.gatsbyjs.org/docs/use-static-query/
  */
 
-import React from "react"
+import React, { useState } from "react";
 import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
 
@@ -16,6 +16,10 @@ import "../css/typography.css"
 import Menu from "./menu"
 
 const Layout = ({ children }) => {
+
+  const [isToggled, setToggled] = useState(false);
+  const toggleMenu = () => setToggled(!isToggled);
+  
   const data = useStaticQuery(graphql`
     query SiteTitleQuery {
       allMarkdownRemark 
@@ -52,12 +56,13 @@ const Layout = ({ children }) => {
   const { edges: chapters } = data.allMarkdownRemark
   const { siteMetadata: meta } = data.site
 
+
   return (
     <>
     <div className="container">
-      <Header subtitle={meta.subtitle} title={meta.title} description={meta.description} />
+      <Header subtitle={meta.subtitle} title={meta.title} description={meta.description} toggle={toggleMenu}/>
       <div className="content">{children}</div>
-      <Menu chapters={chapters} />
+     <Menu chapters={chapters} isToggled={isToggled} />
       </div>
     <Footer footerData={data.site.siteMetadata} />
     </>
