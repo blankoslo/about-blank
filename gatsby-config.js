@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/about-blank-ny",
   siteMetadata: {
     prefix: `About:`,
     title: `blank`,
