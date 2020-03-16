@@ -654,7 +654,7 @@ pre tt:after {
   margin: 20px auto 0 100px;
   display: grid;
   grid-gap: 20px;
-  grid-template-columns: repeat(auto-fit, minmax(690px, 1fr));  
+  grid-template-columns: auto 1fr;  
   grid-template-areas: "header . " "innhold sidebar" "footer footer"; 
 }
 
@@ -667,12 +667,13 @@ pre tt:after {
 
 .content {
   grid-area: innhold;
+  max-width: 690px;
 }
 
 
 .header {
   grid-area: header;
-  /* max-width: 690px; */
+  max-width: 690px;
 }
 
 .sidebar{
