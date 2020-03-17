@@ -194,7 +194,7 @@ textarea {
   font: inherit;
 }
 html {
-  font: 125%/1.5em "Work Sans";
+  font: 130%/1.65em "Work Sans";
   box-sizing: border-box;
   overflow-y: scroll;
 }
@@ -644,7 +644,7 @@ pre tt:after {
 }
 @media only screen and (max-width: 480px) {
   html {
-    font-size: 100%;
+    font-size: 110%;
   }
 }
 
@@ -661,7 +661,9 @@ pre tt:after {
 
 @media (max-width: 1024px) {
   .container {
-    margin: 20px auto 0 10px;
+    margin: 20px 15px;
+    display: flex;
+    flex-direction: column;
   }
 }
 
@@ -685,9 +687,9 @@ pre tt:after {
   margin-right: 10px;
 }
 
-@media (max-width: 950px) {
+@media (max-width: 768px) {
     .sidebar{
-        position: fixed;
+        position: absolute;
         top: 0px;
         right: 0px;
         width: 100%;
@@ -695,6 +697,7 @@ pre tt:after {
         z-index: 2000;
         padding: 70px;
         height: 100%;
+        margin-right: 0px;
     }
 }
 
@@ -773,6 +776,13 @@ pre tt:after {
   font-family: "Sang Bleu Empire";
   font-weight: 800;
   text-decoration: none;
+  white-space: nowrap;
+}
+
+@media (max-width: 950px) {
+  .title {
+    font-size: 7.2rem;
+  }
 }
 
 .subtitle {
@@ -788,7 +798,7 @@ pre tt:after {
   font-family: "Sang Bleu Empire";
   font-weight: 500;
   text-rendering: optimizeLegibility;
-  font-size: 2.25rem;
+  font-size: 2.1rem;
   line-height: 1.1;
 }
 
