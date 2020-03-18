@@ -2,9 +2,9 @@ import { AnchorLink } from "gatsby-plugin-anchor-links";
 import PropTypes from "prop-types";
 import React from "react";
 
-const Menu = ({ chapters}) => (
-  
-    <div className={"sidebar"} >
+const Burgermeny = ({ chapters }) => (
+
+    <div className={"burgermeny"} >
         <div className="sticky">
     {chapters
         .filter(chapter => chapter.node.frontmatter.title.length > 0)
@@ -19,12 +19,12 @@ const Menu = ({ chapters}) => (
     </div>
 )
 
-Menu.propTypes = {
+Burgermeny.propTypes = {
   chapters: PropTypes.array,
 }
 
-Menu.defaultProps = {
-  chapters: []
+Burgermeny.defaultProps = {
+  chapter: [],
 }
 
-export default Menu
+export default Burgermeny

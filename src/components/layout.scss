@@ -194,7 +194,7 @@ textarea {
   font: inherit;
 }
 html {
-  font: 125%/1.5em "Work Sans";
+  font: 130%/1.65em "Work Sans";
   box-sizing: border-box;
   overflow-y: scroll;
 }
@@ -644,7 +644,7 @@ pre tt:after {
 }
 @media only screen and (max-width: 480px) {
   html {
-    font-size: 100%;
+    font-size: 110%;
   }
 }
 
@@ -654,46 +654,28 @@ pre tt:after {
   margin: 20px auto 0 100px;
   display: grid;
   grid-gap: 20px;
-  grid-template-columns: 5fr auto;
+  grid-template-columns: auto 1fr;  
   grid-template-areas: "header . " "innhold sidebar" "footer footer"; 
 }
 
+
 @media (max-width: 1024px) {
   .container {
-    margin: 20px auto 0 10px;
-  }
-}
-
-
-@media (max-width: 700px) {
-  .container {
-    margin: 0 auto 0 20px;
-    grid-template-columns: 1fr;
-    grid-template-areas: "header" "innhold" "footer";
+    margin: 20px 15px;
+    /* display: flex;
+    flex-direction: column; */
   }
 }
 
 .content {
   grid-area: innhold;
+  max-width: 690px;
 }
 
-@media (max-width: 700px) {
-  .content {
-    grid-area: innhold;
-    width: 100%;
-    max-width: 390px;
-    }
-}
 
 .header {
   grid-area: header;
   max-width: 690px;
-}
-
-@media (max-width: 700px) {
-  .header {
-    max-width: 340px;
-    }
 }
 
 .sidebar{
@@ -705,16 +687,22 @@ pre tt:after {
   margin-right: 10px;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 768px) {
     .sidebar{
-        position: fixed;
-        top: 0px;
-        right: 0px;
-        width: 100%;
-        background: #fff;
-        z-index: 2000;
-        padding: 70px;
+       display: none;
     }
+}
+
+.burgermeny {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  width: 100%;
+  background: #fff;
+  z-index: 2000;
+  padding: 70px;
+  height: 100%;
+  margin-right: 0px;
 }
 
 .footer{
@@ -764,7 +752,6 @@ pre tt:after {
   margin-bottom: 5rem;
   position: relative;
   height: auto;
-  max-width: 680px;
 }
 
 .sticky{
@@ -793,12 +780,13 @@ pre tt:after {
   font-family: "Sang Bleu Empire";
   font-weight: 800;
   text-decoration: none;
+  white-space: nowrap;
 }
 
-@media (max-width: 700px) {
-    .title{
-        position: absolute;
-    }
+@media (max-width: 950px) {
+  .title {
+    font-size: 7.2rem;
+  }
 }
 
 .subtitle {
@@ -814,15 +802,8 @@ pre tt:after {
   font-family: "Sang Bleu Empire";
   font-weight: 500;
   text-rendering: optimizeLegibility;
-  font-size: 2.25rem;
+  font-size: 2.1rem;
   line-height: 1.1;
-}
-
-@media (max-width: 700px) {
-    .subtitle{
-        margin-top: 100px;
-        width: 100%;
-    }
 }
 
 .description {
@@ -836,14 +817,9 @@ pre tt:after {
 }
 
 
-@media (max-width: 700px) {
-    .description{
-        width: 100%;
-        font-size: 1.2em;
-    }
-}
 
-@media (min-width: 700px) {
+
+@media (min-width: 768px) {
     .menu_btn{
         display:none;
     }
@@ -855,6 +831,9 @@ pre tt:after {
         top: 0;
         right: 0;
         padding: 10px 15px; 
+        border: none;
+        background-color: transparent;
+        cursor: pointer;
     }
 
 .line{
