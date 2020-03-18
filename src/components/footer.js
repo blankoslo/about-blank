@@ -2,8 +2,8 @@ import PropTypes from "prop-types"
 import React from "react"
 
 const Footer = ({ footerData }) => (
-  <footer class="footer">
-    <div class="inf friendly">
+  <footer className="footer">
+    <div className="inf friendly">
     <p>
         {footerData.friendly}
     </p>
@@ -11,7 +11,7 @@ const Footer = ({ footerData }) => (
     </div>
     
     <div>
-    <div class="inf">
+    <div className="inf">
       <a href="mailto:innboks@blank.no">
       <p>
         {footerData.email}
@@ -31,7 +31,7 @@ const Footer = ({ footerData }) => (
       </a>
     </div>
     
-    <div class="inf">
+    <div className="inf">
       <a target="_blank" rel="noopener noreferrer" href="http://www.blank.no">
       <p>
         {footerData.name}

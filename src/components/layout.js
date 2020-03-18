@@ -14,11 +14,12 @@ import Footer from "./footer"
 import "./layout.scss"
 import "../css/typography.css"
 import Menu from "./menu"
+import Burgermeny from "./burgermeny";
 
 const Layout = ({ children }) => {
 
   const [isToggled, setToggled] = useState(false);
-  const toggleMenu = () => setToggled(!isToggled);
+  const toggleMenu = () => { setToggled(!isToggled); }
   
   const data = useStaticQuery(graphql`
     query SiteTitleQuery {
@@ -62,7 +63,10 @@ const Layout = ({ children }) => {
     <div className="container">
       <Header subtitle={meta.subtitle} title={meta.title} description={meta.description} toggle={toggleMenu}/>
       <div className="content">{children}</div>
-     <Menu chapters={chapters} isToggled={isToggled} />
+     <Menu chapters={chapters}/>
+     { isToggled && 
+     <Burgermeny chapters={chapters} />
+}
       </div>
     <Footer footerData={data.site.siteMetadata} />
     </>

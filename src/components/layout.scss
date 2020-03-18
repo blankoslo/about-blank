@@ -662,8 +662,8 @@ pre tt:after {
 @media (max-width: 1024px) {
   .container {
     margin: 20px 15px;
-    display: flex;
-    flex-direction: column;
+    /* display: flex;
+    flex-direction: column; */
   }
 }
 
@@ -689,16 +689,20 @@ pre tt:after {
 
 @media (max-width: 768px) {
     .sidebar{
-        position: absolute;
-        top: 0px;
-        right: 0px;
-        width: 100%;
-        background: #fff;
-        z-index: 2000;
-        padding: 70px;
-        height: 100%;
-        margin-right: 0px;
+       display: none;
     }
+}
+
+.burgermeny {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  width: 100%;
+  background: #fff;
+  z-index: 2000;
+  padding: 70px;
+  height: 100%;
+  margin-right: 0px;
 }
 
 .footer{
@@ -815,7 +819,7 @@ pre tt:after {
 
 
 
-@media (min-width: 950px) {
+@media (min-width: 768px) {
     .menu_btn{
         display:none;
     }
