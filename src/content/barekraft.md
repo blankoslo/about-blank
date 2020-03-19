@@ -1,7 +1,6 @@
 ---
-layout: page
 title: 12 Bærekraft (WIP 👷‍♀️)
-permalink: /barekraft/
+path: barekraft
 ---
 
 

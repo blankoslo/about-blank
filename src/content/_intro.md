@@ -1,7 +1,6 @@
 ---
-layout: meta
 title: 00 Intro
-permalink: /intro/
+path: intro
 ---
 
 Denne personalhåndboken er ikke ment å være 100% utfyllende. Dersom du har spørsmål som ikke besvares her kan du lene deg på følgende:
