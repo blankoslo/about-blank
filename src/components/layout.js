@@ -56,16 +56,14 @@ const Layout = ({ children }) => {
 
   const { edges: chapters } = data.allMarkdownRemark
   const { siteMetadata: meta } = data.site
-
-
   return (
     <>
     <div className="container">
-      <Header subtitle={meta.subtitle} title={meta.title} description={meta.description} toggle={toggleMenu}/>
+      <Header subtitle={meta.subtitle} title={meta.title} description={meta.description} toggle={toggleMenu} isToggled={isToggled}/>
       <div className="content">{children}</div>
      <Menu chapters={chapters}/>
      { isToggled && 
-     <Burgermeny chapters={chapters} />
+     <Burgermeny chapters={chapters} toggle={toggleMenu}/>
 }
       </div>
     <Footer footerData={data.site.siteMetadata} />

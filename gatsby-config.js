@@ -31,13 +31,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
-        short_name: `starter`,
+        name: `about:blank`,
+        short_name: `about:blank`,
         start_url: `/`,
-        background_color: `#663399`,
-        theme_color: `#663399`,
+        background_color: `#3C1345`,
+        theme_color: `#3C1345`,
         display: `minimal-ui`,
-        icon: `src/images/icon-144x144.png`, // This path is relative to the root of the site.
+        icon: `src/images/blank-icon-144.png`, // This path is relative to the root of the site.
       },
     },    
     `gatsby-transformer-remark`,

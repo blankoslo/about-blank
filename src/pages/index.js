@@ -1,10 +1,17 @@
 import React from "react";
 import Layout from "../components/layout";
+import { Helmet } from "react-helmet"
 
 
 export default function Index({ data }) {
   const { edges: chapters } = data.allMarkdownRemark
   return (
+    <React.Fragment>
+        <Helmet>
+          <meta charSet="utf-8" />
+          <title>about:blank</title>
+          <link rel="canonical" href="http://about.blank.no" />
+        </Helmet>
     <Layout>
       <div>
         {chapters
@@ -20,6 +27,7 @@ export default function Index({ data }) {
       </div>
       
     </Layout>
+   </React.Fragment>
   )
 }
 export const pageQuery = graphql`

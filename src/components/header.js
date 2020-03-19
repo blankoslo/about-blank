@@ -2,14 +2,15 @@ import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
 
-const Header = ({ prefix, subtitle, title, description, toggle }) => (
+const Header = ({ prefix, subtitle, title, description, toggle, isToggled }) => (
     <div className="header">
-        
-        <button type="button" className="menu_btn" onClick={toggle}>
-            <div className="line"></div>
-            <div className="line"></div>
-            <div className="line"></div>
+        <button type="button" id="menuToggle" onClick={toggle}>
+        <input type="checkbox" checked={isToggled} />
+          <span></span>
+          <span></span>
+          <span></span>
         </button>
+
     
         <div className="prefix">About:</div>
           
