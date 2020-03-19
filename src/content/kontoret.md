@@ -1,7 +1,6 @@
 ---
-layout: page
-title: Kontoret
-permalink: /kontor/
+title: 05 Kontoret
+path: kontor
 ---
 
 ## Rutiner

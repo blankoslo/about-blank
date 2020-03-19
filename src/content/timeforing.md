@@ -1,7 +1,6 @@
 ---
-layout: page
-title: Timeføring og fravær
-permalink: /timeforing/
+title: 11 Timeføring og fravær
+path: timeforing
 ---
 
 

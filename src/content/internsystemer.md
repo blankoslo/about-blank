@@ -1,7 +1,6 @@
 ---
-layout: page
-title: Internsystemer
-permalink: /internsystemer/
+title: 04 Internsystemer
+path: internsystemer
 ---
 
 - inni.blank.no for timeføring, overtid, fraværskalender, ansattliste, KPI m.m.

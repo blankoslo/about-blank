@@ -1,7 +1,6 @@
 ---
-layout: page
-title: Lønn og betingelser
-permalink: /lonn/
+title: 06 Lønn og betingelser
+path: lonn
 ---
 
 ## Lønn
@@ -103,8 +102,10 @@ Blank dekker inntil 1000 kr i året ved kjøp av utstyr eller klær relatert til
 Blank sponser bysykkelabonnement for alle ansatte. Ta kontakt med Knut for å få kode. 
 
 ## Bedriftsidrettslag
-Pris
-Innmelding
+
+Pris: 100,00kr
+
+Innmelding: Vipps til BLANK BEDRIFTSIDRETSSLAG (#558110)
 
 ### Løping
 
@@ -122,7 +123,11 @@ Blank klatrer vanligvis på torsdager klokken 17.30. Blank har avtale med Klatre
 For hvert år du har vært ansatt i Blank får du en gave!
 
 Ett år: Kinobilletter og popcorn
+
 To år: Gavekort på 1000 kroner til bruk på billetter til kulturarrangement (teater, konsert osv.)
+
 Tre år: Gavekort på 2000 kroner som man kan bruke på å gå ut å spise
+
 Fire år: Gavekort på 500 kroner på bokhandel
+
 Fem år: ???

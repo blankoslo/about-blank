@@ -1,7 +1,6 @@
 ---
-layout: page
-title: Ordliste
-permalink: /ordliste/
+title: 07 Ordliste
+path: ordliste
 ---
 
 ## Faktureringsgrad

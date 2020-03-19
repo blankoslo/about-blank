@@ -1,7 +1,6 @@
 ---
-layout: page
-title: Personalledelse og HMS
-permalink: /timeforing/
+title: 09 Personalledelse og HMS
+path: personalledelse
 ---
 
 ## Personalledelse

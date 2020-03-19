@@ -1,7 +1,7 @@
 ---
 layout: meta
-title: Hjelp
-permalink: /hjelp/
+title: 12 Hjelp
+path: hjelp
 ---
 
 ## Endre innhold
@@ -20,15 +20,15 @@ Dersom du ikke har brukt Markdown tidligere kan det være greit å ta en titt p�
 
 ### Kjør lokalt
 
-Dersom du ønsker å gjøre noe utover det å endre innhold, kan det være kjekt å kjøre opp løsningen lokalt. Siden kjøres på [Jekyll](http://jekyllrb.com/), og det er ikke spesielt vanskelig å få den til å kjøre, så lenge du har [Ruby](https://www.ruby-lang.org/) installert, og ```gem``` ([RubyGems](https://rubygems.org/)) på kommandolinjen.
+Dersom du ønsker å gjøre noe utover det å endre innhold, kan det være kjekt å kjøre opp løsningen lokalt. Siden kjøres på [Gatsby.js](http://www.gatsbyjs.org/), og det er ikke spesielt vanskelig å få den til å kjøre, så lenge du har [Node](https://nodejs.org/) installert, og ```npm``` på kommandolinjen.
 
-- Installer jekyll og bundler: ```gem install jekyll bundler```
-- Klon blankoslo/about-blank: ```git clone https://github.com/blankoslo/about-blank```
-- Installer avhengigheter: ```bundle install```
-- Kjør utviklingsserver: ```jekyll serve```
+- Installer gatsby-cli: ```npm install -g gatsby-cli```
+- Klon clapat/about-blank-ny: ```git clone https://github.com/blankoslo/about-blank```
+- Installer avhengigheter: ```npm install```
+- Kjør utviklingsserver: ```gatsby develop```
 
-Siden bygges nå på nytt hver gang du gjør endringer, og kjører på localhost:4000
+Siden bygges nå på nytt hver gang du gjør endringer, og kjører på localhost:8000
 
 ### Bygg og deploy
 
-Ved oppdatering av master-branchen på Github kjøres ```jekyll build``` på [Travis](https://travis-ci.org/blankoslo/about-blank). Dersom bygget er vellykket deployes innholdet i "_site"-mappen til S3, og er live på about.blankoslo.no. Oppsettet av dette finner du i .travis.yml i roten av prosjektet.
+Ved oppdatering av master-branchen på Github kjøres ```gatsby build``` på [Travis](https://travis-ci.org/blankoslo/about-blank). Dersom bygget er vellykket deployes innholdet i "_site"-mappen til S3, og er live på about.blankoslo.no. Oppsettet av dette finner du i .travis.yml i roten av prosjektet.

@@ -1,8 +1,9 @@
-language: ruby
-rvm:
-- 2.3.7
+language: node_js
+node_js:
+- 12.16.1
 
-script: bundle exec jekyll build
+install: npm install
+script: gatsby build
 
 sudo: false # route your build to the container-based infrastructure for a faster build
 

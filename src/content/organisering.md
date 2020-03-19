@@ -1,7 +1,6 @@
 ---
-layout: page
-title: Organisering
-permalink: /organisering/
+title: 08 Organisering
+path: organisering
 ---
 
 ## Administrasjon

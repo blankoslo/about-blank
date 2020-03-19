@@ -1,7 +1,6 @@
 ---
-layout: page
-title: Sosialt
-permalink: /sosialt/
+title: 10 Sosialt
+path: sosialt
 ---
 
 ## Sosialt i Blank

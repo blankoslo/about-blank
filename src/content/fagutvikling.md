@@ -1,8 +1,8 @@
 ---
-layout: page
-title: Fagutvikling
-permalink: /fagutvikling/
+title: 02 Fagutvikling
+path: fagutvikling
 ---
+
 
 ## Innedager
 

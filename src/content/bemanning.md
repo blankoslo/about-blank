@@ -1,7 +1,6 @@
 ---
-layout: page
-title: Bemanning
-permalink: /bemanning/
+title: 01 Bemanning
+path: bemanning
 ---
 
 ## Kundearbeid
