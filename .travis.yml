@@ -3,7 +3,7 @@ node_js:
 - 12.16.1
 
 install: npm install
-script: gatsby build
+script: npm run build
 
 sudo: false # route your build to the container-based infrastructure for a faster build
 
@@ -14,6 +14,6 @@ deploy:
     bucket: about.blank.no
     region: eu-central-1
     skip_cleanup: true
-    local-dir: _site
+    local-dir: public
     acl: public_read
     detect_encoding: true
