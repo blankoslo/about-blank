@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bærekraft
+title: 12 Bærekraft (WIP 👷‍♀️)
 permalink: /barekraft/
 ---
 
@@ -22,7 +22,7 @@ Vi i Blank ønsker å bidra til en bærekraftig utvikling innenfor de tre dimens
 
 
 ### Sosiale forhold
-Likestilling mellom kjønnende
+Likestilling mellom kjønnene
 Mindre ulikhet
 Utdanning
 Kulturelt mangfold
@@ -40,9 +40,9 @@ Anstendig arbeidsforhold og økonomisk vekst
 Innovasjon og infrastruktur
 
 
-Blank sin største påvirkningsmulighet ligger i arbeidet vi gjør for kundene våre. 
+<!-- Blank sin største påvirkningsmulighet ligger i arbeidet vi gjør for kundene våre. 
 
 
 Vi anerkjenner at ikke Blank som selskap 
 
-Vi er opptatt av å være ærlige på hva vi gjør 
+Vi er opptatt av å være ærlige på hva vi gjør  -->

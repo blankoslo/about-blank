@@ -1,6 +1,6 @@
 ---
 layout: meta
-title: Intro
+title: 00 Intro
 permalink: /intro/
 ---
 
