@@ -21,22 +21,20 @@ Vi i Blank ønsker å bidra til en bærekraftig utvikling innenfor de tre dimens
 
 
 ### Sosiale forhold
-Likestilling mellom kjønnene
-Mindre ulikhet
-Utdanning
-Kulturelt mangfold
+- Likestilling mellom kjønnene
+- Mindre ulikhet
+- Utdanning
+- Kulturelt mangfold
 
+### Økonomi
+- Fattigdom
+- Sult
+- Anstendig arbeidsforhold og økonomisk vekst
+- Innovasjon og infrastruktur
 
 ### Miljø og klima
-Redusere forbruk
-Reise miljøvennlig
-
-
-## Økonomi
-Fattigdom
-Sult
-Anstendig arbeidsforhold og økonomisk vekst
-Innovasjon og infrastruktur
+- Redusere forbruk
+- Reise miljøvennlig
 
 
 <!-- Blank sin største påvirkningsmulighet ligger i arbeidet vi gjør for kundene våre. 
