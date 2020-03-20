@@ -6,7 +6,7 @@ path: sosialt
 ## Sosialt i Blank
 Blank støtter gjerne sosiale aktiviteter, så det er bare å starte ting så lenge det er åpent for alle. 
 
-Kristiane er «head of sosialt- og aktiviteter» med litt ekstra ansvar for å fasilitere og bistå for å få i gang flere felles aktiviteter i Blank.
+Kristiane er «head of sosialt og aktiviteter» med litt ekstra ansvar for å fasilitere og bistå for å få i gang flere felles aktiviteter i Blank.
 
 Nedenfor ser du en oversikt over de aktivitetene som finnes per dags dato.
 
@@ -18,7 +18,7 @@ Pizzaboten inviterer folk på pizza, og når fem stk har svart ja til pizza på 
 ### Middagsklubb
 Middagsklubben er en ganske lavterskel aktivitet hvor én person inviterer til middag hjemme hos seg, kommer opp med hva som skal lages den kvelden, og handler inn matvarer og drikke. Vi lager maten og spiser sammen. Blank dekker utgiftene. 
 
-Den som hoster kan enten sette en dato, eller ha en avstemning i #middagsklubben. Si fra hvor mange du har plass til, samme om det er to, seks eller 20 stk – så er det first come, first serve av de som har anledning til å være med den satte datoen. 
+Den som hoster kan enten sette en dato, eller ha en avstemning i #middagsklubben. Si fra hvor mange du har plass til, samme om det er to, seks eller 20 stk – så er det first come, first serve av de som har anledning til å være med den satte datoen. 
 
 Dersom man synes det er litt pes å stå for alt fra vertskap til innkjøp og å komme opp med meny, er det selvfølgelig fritt frem for å slå seg sammen med flere. 
 
