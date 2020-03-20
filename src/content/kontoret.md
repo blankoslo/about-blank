@@ -26,7 +26,7 @@ I skapet ved siden av store møterom står det en printer/kopimaskin/scanner som
 7. Print
 
 ### 3D-printer
-Oppe i glassburet i fjerde etasje har vi en Prusa 3D-printer som det selvfølgelig er fritt frem for alle å bruke. Det finnes en liten oppstartsguide her. 
+Oppe i glassburet i fjerde etasje har vi en Prusa 3D-printer som det selvfølgelig er fritt frem for alle å bruke. Det finnes en liten oppstartsguide [her](https://docs.google.com/document/d/1qxc_b4R94w1YC0-eBi2tNAUb1rGHqKqYe2wqes5c4F4). 
 
 ## Gjesterutiner
 Møterommene og loftet kan benyttes til workshops med kunder dersom dette er ønskelig. Bruk kalenderne for loftet for å booke det området du trenger.
