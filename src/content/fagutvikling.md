@@ -6,7 +6,7 @@ path: fagutvikling
 
 ## Innedager
 
-Vi gjennomfører ti innedager i løpet av hvert år. Fokuset er på fagutvikling, og man styrer selv hva man ønsker å bruke tiden på. I tillegg presenteres resultatene fra foregående måned, og en kort status.
+Vi har ti innedager i  året. Fokuset er på fagutvikling, og man styrer selv hva man ønsker å bruke tiden på. I tillegg presenteres resultatene fra foregående måned, og en kort status.
 
 Som hovedregel er første fredag i hver måned innedag.
 

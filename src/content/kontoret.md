@@ -39,7 +39,7 @@ Gjester kan benytte besokhosblank-nettverket, og Blank-ansatt kan booke møterom
 Det er bare hyggelig dersom ansatte ønsker å bruke kontoret utenfor normal arbeidstid, enten man bruker det som arbeidsplass eller til sosialisering. Den eneste regelen er at man etterlater kontoret rent og ryddig.
 
 Dersom man planlegger et arrangement hvor man trenger hele kontoret for seg selv gjelder følgende:
-- spør på Slack (#general) om det er OK at man bruker hele kontoret den gitte dagen
+- spør på Slack (#loftet) om det er OK at man bruker hele kontoret den gitte dagen
 - lag en hendelse i Google Calendar og legg til Loftet
 
 Alle ansatte har lik rett til å bruke kontoret, og det er sånn sett «førstemann til mølla» dersom man ønsker å bruke hele kontoret alene.
