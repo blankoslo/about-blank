@@ -14,7 +14,7 @@ Se kalenderinnkalling for Loftet for kontaktinfo dersom du trenger å flytte ell
 ## Printer og plotting
 
 ### Printer
-I skapet ved siden av store møterom står det en printer/kopimaskin/scanner som printer i A4. Den funker når du er koblet til hjemmehosblank-nettverket. 
+I skapet ved siden av store møterom står det en printer/kopimaskin/scanner som printer i A4. Den funker når du er koblet til *hjemmehosblank*-nettverket. 
 
 ### Plotter
 1. Sett i strøm- og ethernetkabelen i veggen. 
@@ -26,7 +26,7 @@ I skapet ved siden av store møterom står det en printer/kopimaskin/scanner som
 7. Print
 
 ### 3D-printer
-Oppe i glassburet i fjerde etasje har vi en Prusa 3D-printer som det selvfølgelig er fritt frem for alle å bruke. Det finnes en liten oppstartsguide her. 
+Oppe i glassburet i fjerde etasje har vi en Prusa 3D-printer som det selvfølgelig er fritt frem for alle å bruke. Det finnes en liten oppstartsguide her.
 
 ## Gjesterutiner
 Møterommene og loftet kan benyttes til workshops med kunder dersom dette er ønskelig. Bruk kalenderne for loftet for å booke det området du trenger.
@@ -42,12 +42,12 @@ Dersom man planlegger et arrangement hvor man trenger hele kontoret for seg selv
 - spør på Slack (#general) om det er OK at man bruker hele kontoret den gitte dagen
 - lag en hendelse i Google Calendar og legg til Loftet
 
-Alle ansatte har lik rett til å bruke kontoret, og det er sånn sett "førstemann til mølla" dersom man ønsker å bruke hele kontoret alene.
+Alle ansatte har lik rett til å bruke kontoret, og det er sånn sett «førstemann til mølla» dersom man ønsker å bruke hele kontoret alene.
 
 ## AV-utstyr
 
 ### Devialet, trådløse høytalere
-Når man er koblet til det trådløse nettet kan man spille til høyttalerne med Spotify Connect. For å stille volumet til høyttalerne bruker man “Spark”-appen fra Devialet.
+Når man er koblet til det trådløse nettet kan man spille til høyttalerne med Spotify Connect. For å stille volumet til høyttalerne bruker man appen *Spark* fra Devialet.
 
 ### PA-anlegg
 Vi har en DJ-mixer som er koblet rett til PA-anlegget.
