@@ -48,57 +48,55 @@ Det finnes to faste muligheter for å kjøpe aksjer i Blank.
 - Maks kjøpesum er bonusbeløp før skatt
 
 
-## Andre ytelser
-
-### Pensjon
+## Pensjon
 Blank sparer 5,5 % av lønn mellom 0G og 12G i innskuddspensjon. Logg inn på [www.gjensidige.no](http://www.gjensidige.no) med BankID dersom du ønsker å justere risikoprofilen for din pensjonssparing.
 
-### Forsikringer du har
+## Forsikringer du har
 Informasjon om hvordan man benytter de forskjellige forsikringene [finner du her](https://docs.google.com/document/d/1p2FoxN2ZB6yZblH87y4mz1KM_uBvditi5hTvZ2oZG1A/edit)
 
-#### Reiseforsikring
+### Reiseforsikring
 Blank dekker reiseforsikring hos Gouda for deg, samboer og barn. Forsikringen gjelder reiser i hele verden inntil 45 dager, også fritidsreiser.
 
-#### Mobilforsikring
+### Mobilforsikring
 Vi har en egen eiendomsforsikring som dekker skader på mobil utover den vanlige reiseforsikringen. Max sum 10 000 kr, egenandelen er 1000 kr.
 
-#### Behandlingsforsikring
+### Behandlingsforsikring
 Alle ansatte har tilgang til ubegrenset medisinsk rådgivning over telefon. I tillegg dekkes, for tilfeller som det offentlige helsevesen ikke dekker eller har lang ventetid konsultasjon, operasjon, fysioterapi, rehabilitering, reise og opphold, psykologisk førstehjelp og psykolog.
 
 Gjennom forsikringen kan du også bruke legeappen Eyr til å ta legetimer gratis på mobilen. Last ned og legg inn forsikringsnummeret vårt, så slipper du å betale for konsultasjonene.
 
-#### Yrkesskade- og yrkessykdomsforsikring
+### Yrkesskade- og yrkessykdomsforsikring
 Gir en engangsutbetaling i de tilfeller man pådrar seg en skade eller sykdom gjennom jobb eller reise til og fra arbeid som gjør at man ikke kan jobbe fullt eller noe i det hele tatt.
 
-#### Uførepensjon
+### Uførepensjon
 Denne forsikringen sikrer deg en månedlig utbetaling frem til du blir pensjonist og gir deg 69 % av fastlønn opp til 12 G minus uførepensjon fra folketrygden. I tillegg kommer 10 % av 1 G som en ekstra utbetaling på toppen - uavhengig av lønnsnivå.
 
-#### Innskuddsfritak
+### Innskuddsfritak
 Dersom du blir minst 20 % ufør, dekker denne forsikringen innbetalinger til din pensjonskonto frem til du blir 67 år, utfra din lønn på det tidspunktet du ble ufør.
 
-### Forsikringer du _IKKE_ har
+## Forsikringer du _IKKE_ har
 
-#### Livsforsikring
+### Livsforsikring
 Noen selskaper har gruppelivsforsikring for alle sine ansatte, som betyr at _noen_ får utbetalt et engangsbeløp dersom du dør. Denne forsikringen har vi valgt å ikke ha i Blank. 
 
 Vurderingen er at de ansatte er i forskjellige livssituasjoner, og kan ha forskjellige behov når det gjelder dekning. Det er også store individuelle forskjeller på hvor dyr en slik forsikring er.
 
-#### Ulykkesforsikring
+### Ulykkesforsikring
 Det er mulig å ha en forsikring som gir rett til engangsutbetaling ved skade eller sykdom også dersom tilfellet ikke skjer gjennom jobb (eller reise i jobb). Dette har vi ikke i Blank.
 
-### Internett
+## Internett
 Blank dekker internett hjemme hos deg med en øvre grense på 500 kroner inkludert mva. i måneden.
 
-### Mobil
+## Mobil
 Abonnement for mobiltelefoni dekkes av selskapet. Dette kan brukes fritt innenfor EU/EØS, med unntak av innholdstjenester.
 
-### Utstyrslotteri
+## Utstyrslotteri
 Utstyr som leveres tilbake til Blank loddes ut til interesserte og selges til den heldige vinner. Er utstyret over 3 år betaler man 500 kroner for dette. 
 
-### Treningsutstyr
+## Treningsutstyr
 Blank dekker inntil 1000 kr i året ved kjøp av utstyr eller klær relatert til trening.
 
-### Bysykkel
+## Bysykkel
 Blank sponser bysykkelabonnement for alle ansatte. Ta kontakt med Knut for å få kode. 
 
 ## Bedriftsidrettslag
