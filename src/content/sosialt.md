@@ -12,6 +12,8 @@ Nedenfor ser du en oversikt over de aktivitetene som finnes per dags dato.
 
 Når du joiner Blank-slacken skal du bli invitert til alle de relevante kanalene for de ulike sosiale aktivitetene, så er det bare å forlate de som ikke er relevante for deg.
 
+![about.blank sosialt](../images/about2.png)
+
 ### Pizzabot
 Pizzaboten inviterer folk på pizza, og når fem stk har svart ja til pizza på satt dato, postes det i #pizza. Så er det bare å glede seg til pizza.
 

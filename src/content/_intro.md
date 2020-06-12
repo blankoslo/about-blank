@@ -7,3 +7,6 @@ Denne personalhåndboken er ikke ment å være 100 % utfyllende. Dersom du har 
 - «Spør om tilgivelse heller enn tillatelse»
 - «Bruk Blanks penger slik du ville brukt dine egne»
 - «Spør en kollega!»
+
+![about.blank collage](../images/about1.png)
+

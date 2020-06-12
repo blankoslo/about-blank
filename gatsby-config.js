@@ -40,13 +40,28 @@ module.exports = {
         icon: `src/images/blank-icon-144.png`, // This path is relative to the root of the site.
       },
     },    
-    `gatsby-transformer-remark`,
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              // It's important to specify the maxWidth (in pixels) of
+              // the content container as this plugin uses this as the
+              // base for generating different widths of each image.
+              maxWidth: 700,
+            },
+          },
+        ],
+      },
+    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `content`,
         path: `src/content`,
-      },
+      }
     },
     {
       resolve: `gatsby-plugin-anchor-links`,
@@ -67,3 +82,5 @@ module.exports = {
     // `gatsby-plugin-offline`,
   ],
 }
+
+
