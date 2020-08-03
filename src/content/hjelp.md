@@ -6,7 +6,7 @@ path: hjelp
 
 ## Endre innhold
 
-Dersom du ønsker å bidra ved å endre eller legge til innhold, kan du gjøre dette direkte ved å redigere eller legge til markdown-filer her på [Github](https://github.com/blankoslo/about-blank/tree/master/content). Hver fil følger en mal, og ender opp som et eget menypunkt på siden.
+Dersom du ønsker å bidra ved å endre eller legge til innhold, kan du gjøre dette direkte ved å redigere eller legge til markdown-filer her på [Github](https://github.com/blankoslo/about-blank/tree/master/src/content). Hver fil følger en mal, og ender opp som et eget menypunkt på siden.
 
 Dersom du gjør endringer av innholdet som du tenker andre bør vurdere, lager du en "pull request" med endringene dine.
 
