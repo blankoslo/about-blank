@@ -48,7 +48,7 @@ Det finnes to faste muligheter for å kjøpe aksjer i Blank.
 - Maks kjøpesum er bonusbeløp før skatt
 
 ### Aksjerabatt
-Hvert år kan du få du 20% rabatt ved aksjekjøp. Maksimal rabatt er 5 000,- per år. Det betyr at om du kjøper aksjer for 25 000,- får du 20% rabatt på disse og betaler da 20 000,-
+Hvert år kan du få du 20% rabatt ved aksjekjøp. Maksimal rabatt er 5 000,- per år. Det betyr at om du kjøper aksjer for 25 000,- får du 20% rabatt på disse og betaler da 20 000,-
 
 
 ## Pensjon
