@@ -107,7 +107,7 @@ Blank sponser bysykkelabonnement for alle ansatte. Ta kontakt med Knut for å f�
 Årsavgift: 100 kr vippses til BLANK BEDRIFTSIDRETSSLAG (#558110)
 
 ### Løping
-Flere i Blank løper korte rolige eller lange raske turer. Uansett kan det være gøy å trene mot et mål enten man ønsker å prege listene til Strava-bot'n i #random hver mandag eller slå sin egen tid fra i fjor. Derfor pleier vi hvert år å melde oss på mosjonsløp som Sentrumsløpet, Holmenkollstafetten, Forebuløpet, Nøklevann Rundt og Oslo Maraton. Si i fra hvis det er et løp du vil være med på, så ordner vi med påmeldingskode og bankett.
+Flere i Blank løper korte rolige eller lange raske turer. Uansett kan det være gøy å trene mot et mål enten man ønsker å prege listene til Strava-bot'n i #random hver mandag eller slå sin egen tid fra i fjor. Derfor pleier vi hvert år å melde oss på mosjonsløp som Sentrumsløpet, Holmenkollstafetten, Fornebuløpet, Nøklevann Rundt og Oslo Maraton. Si i fra hvis det er et løp du vil være med på, så ordner vi med påmeldingskode og bankett.
 
 ### Fotball
 Hver mandag fra 19-20 spiller Blank fotball i Valhall sammen med Snøhetta. Påmelding via Spond: https://group.spond.com/DLJVI 
