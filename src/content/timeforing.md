@@ -52,7 +52,7 @@ Selskapet dekker differansen mellom kompensasjon fra det offentlige, og fast lø
 
 ### Tilvenning i barnehage og første skoledag
 
-I forbindelse med oppstart i barnehage eller skole for barnet ditt har du muligheten til å føre opp til tre dager på *Internt - Permisjon med Lønn*.
+I forbindelse med oppstart i barnehage eller skole for barnet ditt har du muligheten til å føre opp til tre dager på *Internt - Tilvenning barnehage/skole*.
 
 ### Velferdspermisjon
 
