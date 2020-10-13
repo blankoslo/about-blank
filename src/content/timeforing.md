@@ -31,6 +31,8 @@ Når man er på ferie fører man 7,5 timer per fulle arbeidsdag på timeførings
 
 Dersom man avspaserer fører man ikke timer.
 
+Ved feriedager til gode, kan opp til 10 dager overføres til påfølgende år.
+
 
 ### Avspaseringskonto
 Det er alltid OK å være mellom 37,5 timer i pluss eller minus på “avspaseringskontoen”. Dersom man går utenfor dette må man ta ut overtidsbetaling (dersom man har overtidsberettigede timer), avspasere eller jobbe inn/bruke ferie for å komme ajour.
