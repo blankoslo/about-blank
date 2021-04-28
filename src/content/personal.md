@@ -28,11 +28,11 @@ Fagleder sitt hovedansvar er å tilrettelegge for faglig og personlig utvikling 
 Alle skal få et tilbud om fysisk fagutviklingssamtale minst to ganger i året. Det er fagleder sitt ansvar at samtalene blir tilbudt og gjennomført etter ønske, men det er opp til hver enkelt ansatt å velge hvem de ønsker å ha sine samtaler med. 
 
 
-## HMS og verneombud
+## Verneombud
 
-HMS og verneombud er i Blank samme person. De viktigste oppgavene er:
+Verneombudets rolle er å ivareta arbeidstakernes interesser i saker som angår arbeidsmiljøet, slik som: 
 
 - være en kanal for tilbakemelding og varsling, dersom ansatte ikke ønsker å gå til personalleder
 - følge opp HMS-forholdene i Blank sammen med daglig leder
 
-Personen velges av de ansatte for ett år av gangen. Per nå er Nina HMS og verneombud. Siste valg ble gjennomført oktober 2019. 
+Personen velges av de ansatte for ett år av gangen. 
