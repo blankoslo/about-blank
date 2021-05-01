@@ -34,21 +34,28 @@ For å illustrere med et eksempel: i 4. kvartal 2016 går Blank med et overskudd
 Bonus utbetales sammen med første månedslønn etter kvartalslutt. Eksempelvis utbetales bonus for Q1 sammenm med aprillønnen.
 
 ## Medeierskap
-Alle ansatte i Blank får tilbud om å kjøpe aksjer i selskapet og dermed bli medeiere. Man må ikke eie aksjer for å jobbe i Blank, men vi ønsker å gi alle denne muligheten.
+Alle ansatte i Blank får tilbud om å kjøpe aksjer i selskapet og dermed bli medeiere. Ansatte som eier mer enn 10 % av selskapet får ikke tilbud om å kjøpe flere aksjer. Man må ikke eie aksjer for å jobbe i Blank, men vi ønsker å gi alle denne muligheten.
 
-Det finnes to faste muligheter for å kjøpe aksjer i Blank. 
+
+*Fordeler med ansatteierskap:*
+- Du får være med på eie din egen arbeidsplass. 
+- Du får økt innflytelse. Blant annet får du en stemme per aksje på Blanks generalforsamling.
+- Du får ta en større del av verdiveksten i selskapet gjennom utbytte og prisstigning på aksjene. 
+- Mye tyder på at ansatteierskap fører til økt trivsel, produktivt og lønnsomhet ([1](https://agendamagasin.no/kommentarer/5-grunner-flere-bor-eie-egen-arbeidsplass/), [2](https://wol.iza.org/articles/does-employee-ownership-improve-performance))
+
+Det finnes to faste muligheter for å kjøpe aksjer i Blank.
 
 *Hvert halvår:*
-- Alle ansatte i Blank som eier mindre enn 0,7 % av selskapet, får tilbud om å kjøpe seg opp til dette nivået
+- Alle ansatte i Blank som eier mindre enn 2,0 % av selskapet, får tilbud om å kjøpe seg opp til dette nivået
 - Aksjene prises løpende til en konservativ markedspris basert på antall ansatte i selskapet
 - Blank tilbyr rentefritt lån på 3/5G (Grunnbeløpet i folketrygden) for de som ønsker dette. Dette lånet betales tilbake gjennom lønnstrekk over 12 måneder
 
 *Ved bonusutbetalinger:*
 - Hvert kvartal tilbys alle ansatte å kjøpe aksjer. 
-- Maks kjøpesum er bonusbeløp før skatt
+- Maks kjøpesum er bonusbeløp + eventuell aksjerabatt før skatt
 
 ### Aksjerabatt
-Hvert år kan du få du 20% rabatt ved aksjekjøp. Maksimal rabatt er 5 000,- per år. Det betyr at om du kjøper aksjer for 25 000,- får du 20% rabatt på disse og betaler da 20 000,-
+Hvert år kan du få du 20 % rabatt ved aksjekjøp. Maksimal rabatt er 5 000,- per år. Det betyr at om du kjøper aksjer for 25 000,- får du 20 % rabatt på disse og betaler da 20 000,-
 
 
 ## Pensjon
