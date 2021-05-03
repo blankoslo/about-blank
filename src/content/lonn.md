@@ -43,7 +43,7 @@ Alle ansatte i Blank får tilbud om å kjøpe aksjer i selskapet og dermed bli m
 - Du får ta en større del av verdiveksten i selskapet gjennom utbytte og prisstigning på aksjene. 
 - Mye tyder på at ansatteierskap fører til økt trivsel, produktivt og lønnsomhet ([1](https://agendamagasin.no/kommentarer/5-grunner-flere-bor-eie-egen-arbeidsplass/), [2](https://wol.iza.org/articles/does-employee-ownership-improve-performance))
 
-Det finnes to faste muligheter for å kjøpe aksjer i Blank.
+Det finnes to faste muligheter for å kjøpe aksjer i Blank. Dersom selskapet ikke har nok aksjer til å dekke etterspørselen vil tilgjengelige aksjer fordeles likt på interesserte ansatte.
 
 *Hvert halvår:*
 - Alle ansatte i Blank som eier mindre enn 2,0 % av selskapet, får tilbud om å kjøpe seg opp til dette nivået
