@@ -25,11 +25,11 @@ Magne Davidsen | Styreleder | Majoritetsaksjonærene
 Jon Bernholdt Olsen | Styrets nestleder | Majoritetsaksjonærene
 Knut Backer | Styremedlem | Majoritetsaksjonærene
 Ole Jacob Syrdahl | Styremedlem | Minoritetsaksjonærene
-Aida Cortes Lopez | Styremedlem | Ansattrepresentant
-Yngvar Johnsen | Varamedlem | Ansattrepresentant
-Ragnhild Byrkjeland | Varamedlem | Minoritetsaksjonærene
+Ingrid Moen | Styremedlem | Ansattrepresentant
+Helene Lunde | Varamedlem | Ansattrepresentant
+Clara Patek | Varamedlem | Minoritetsaksjonærene
 
-Representant for minoritetsaksjonær og representant for de ansatte velges for to år av gangen. Siste valg ble gjennomført mai 2019.
+Representant for minoritetsaksjonær og representant for de ansatte velges for to år av gangen. Siste valg ble gjennomført april 2021.
 
 ## Åremålsroller
 
