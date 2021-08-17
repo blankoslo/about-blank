@@ -137,4 +137,4 @@ Tre år: Gavekort på 2000 kroner som man kan bruke på å gå ut å spise
 
 Fire år: Gavekort på 500 kroner på bokhandel
 
-Fem år: ???
+Fem år: Gavekort på 5000 kroner til opphold i tretopphus
