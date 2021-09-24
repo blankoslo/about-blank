@@ -1,5 +1,8 @@
 name: Vercel deploy
-on: [push, pull_request]
+on:
+  push:
+    branches:
+      - master
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -12,4 +15,6 @@ jobs:
           vercel-org-id: ${{ secrets.VERCEL_ORG_ID}}
           vercel-project-id: prj_Dtycx0qWKnsDs2h3QSjZARTKbvpy
           vercel-project-name: about-blank
+          vercel-args: '--prod'
+
 
