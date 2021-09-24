@@ -8,6 +8,6 @@ jobs:
       - uses: amondnet/vercel-action@v20
         with:
           vercel-token: ${{ secrets.VERCEL_TOKEN }}
-          vercel-org-id: ${{ secrets.VERCEL_ORG_ID}}  #Required
-          vercel-project-id: prj_5Ltlj9kJx1WCeWVrIyORg6O5as9w #Required
-          # working-directory: ./sub-directory
+          vercel-org-id: ${{ secrets.VERCEL_ORG_ID}}
+          vercel-project-id: prj_Dtycx0qWKnsDs2h3QSjZARTKbvpy
+
