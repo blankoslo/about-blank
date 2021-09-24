@@ -31,4 +31,4 @@ Siden bygges nå på nytt hver gang du gjør endringer, og kjører på localhost
 
 ### Bygg og deploy
 
-Ved oppdatering av master-branchen på Github kjøres ```gatsby build``` på [Travis](https://travis-ci.org/blankoslo/about-blank). Dersom bygget er vellykket deployes innholdet i `_site`-mappen til S3, og er live på about.blankoslo.no. Oppsettet av dette finner du i .travis.yml i roten av prosjektet.
+Ved oppdatering av master-branchen på Github kjøres ```gatsby build``` på [Travis](https://travis-ci.org/blankoslo/about-blank). Dersom bygget er vellykket deployes innholdet i `_site`-mappen til S3, og er live på about.blank.no. Oppsettet av dette finner du i .travis.yml i roten av prosjektet.
