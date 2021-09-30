@@ -1,8 +1,7 @@
-
-$blank-lila-bright: #6600FF;
-$blank-lila-dark: #3C1345;
-$blank-pink: #FE386E;
-$blank-yellow: #FFF081;
+$blank-lila-bright: #6600ff;
+$blank-lila-dark: #3c1345;
+$blank-pink: #fe386e;
+$blank-yellow: #fff081;
 
 $body-font: "Work Sans";
 
@@ -239,7 +238,7 @@ h1 {
   padding-bottom: 15px;
   padding-left: 0;
   padding-right: 0;
-  padding-top: 1.4rem;;
+  padding-top: 1.4rem;
   margin-bottom: 1.45rem;
   color: $blank-lila-dark;
   font-family: "Sang Bleu Empire";
@@ -251,9 +250,9 @@ h1 {
 }
 
 @media (max-width: 700px) {
-    h1{
-        font-size: 1.40rem
-    }
+  h1 {
+    font-size: 1.4rem;
+  }
 }
 
 h1:after {
@@ -282,7 +281,6 @@ h2 {
   font-size: 1.2rem;
   line-height: 1.1;
 }
-
 
 h3 {
   margin-left: 0;
@@ -466,11 +464,10 @@ blockquote {
   margin-left: 1.45rem;
   margin-right: 1.45rem;
   margin-top: 0;
-  padding-bottom: 0;
-  padding-left: 0;
-  padding-right: 0;
-  padding-top: 0;
+  padding: 20px;
   margin-bottom: 1.45rem;
+  background-color: #fff081;
+  font-size: 0.9rem;
 }
 form {
   margin-left: 0;
@@ -651,16 +648,14 @@ pre tt:after {
   }
 }
 
-
 .container {
   max-width: 1440px;
   margin: 20px auto 0 100px;
   display: grid;
   grid-gap: 20px;
-  grid-template-columns: auto 1fr;  
-  grid-template-areas: "header . " "innhold sidebar" "footer footer"; 
+  grid-template-columns: auto 1fr;
+  grid-template-areas: "header . " "innhold sidebar" "footer footer";
 }
-
 
 @media (max-width: 1024px) {
   .container {
@@ -675,13 +670,12 @@ pre tt:after {
   max-width: 690px;
 }
 
-
 .header {
   grid-area: header;
   max-width: 690px;
 }
 
-.sidebar{
+.sidebar {
   grid-area: sidebar;
   text-align: right;
   position: relative;
@@ -691,59 +685,55 @@ pre tt:after {
 }
 
 @media (max-width: 769px) {
-    .sidebar{
-       display: none;
-    }
+  .sidebar {
+    display: none;
+  }
 }
 
-.footer{
+.footer {
   background: $blank-lila-dark;
-  color: #ffffff; 
+  color: #ffffff;
   padding: 60px 0 30px 100px;
 }
 
 @media (max-width: 700px) {
-    .footer{
-      padding: 60px 0 30px 20px;
-    }
+  .footer {
+    padding: 60px 0 30px 20px;
   }
+}
 
-.inf{
+.inf {
   line-height: 0.2em;
   margin-bottom: 60px;
 }
 
-.friendly{
-    font-size: 2em;
-    font-family: "Sang Bleu Empire";
-    color: $blank-pink;
-    width: 9em;
-    line-height: 1.3em;
+.friendly {
+  font-size: 2em;
+  font-family: "Sang Bleu Empire";
+  color: $blank-pink;
+  width: 9em;
+  line-height: 1.3em;
 }
 
 .menupunkt {
   font-size: 1em;
   color: $blank-lila-bright;
-  text-decoration: none;
   font-weight: 600;
 }
 a:hover.menupunkt {
-  color: $blank-lila-bright;
-  text-decoration: none;
+  color: $blank-yellow;
   font-weight: 600;
-  cursor: default;
 }
 
 .menupunkt:hover {
-  text-decoration: none;
   background: $blank-pink;
 }
 
 .reducedDistance {
-    margin-bottom: 0.8rem;
-    margin-right: 0.2rem;
-    line-height: 1.2em;
-    background-color: transparent;
+  margin-bottom: 0.8rem;
+  margin-right: 0.2rem;
+  line-height: 1.2em;
+  background-color: transparent;
 }
 
 .kapittel {
@@ -752,7 +742,7 @@ a:hover.menupunkt {
   height: auto;
 }
 
-.sticky{
+.sticky {
   position: sticky;
   top: 0;
   left: 0;
@@ -814,43 +804,36 @@ a:hover.menupunkt {
   margin-bottom: 2rem;
 }
 
-
-
-#menuToggle span
-{
+#menuToggle span {
   display: block;
   width: 2rem;
-  height: .3rem;
-  margin-bottom: .45rem;
+  height: 0.3rem;
+  margin-bottom: 0.45rem;
   position: relative;
-  
-  background: $blank-pink;
-  
-  z-index: 3000;
-  
-  transform-origin: 4px 0px;
-  
-  transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
-              background 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
-              opacity 0.55s ease;
 
+  background: $blank-pink;
+
+  z-index: 3000;
+
+  transform-origin: 4px 0px;
+
+  transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1),
+    background 0.5s cubic-bezier(0.77, 0.2, 0.05, 1), opacity 0.55s ease;
 }
-#menuToggle
-{
+#menuToggle {
   display: block;
   position: fixed;
   top: 1rem;
   right: 0.2rem;
-  background-color:transparent;
+  background-color: transparent;
   border: none;
   cursor: pointer;
-  
+
   z-index: 3000;
-  
+
   -webkit-user-select: none;
   user-select: none;
 }
-
 
 .burgermeny {
   position: fixed;
@@ -866,37 +849,30 @@ a:hover.menupunkt {
   text-align: right;
 }
 
-
 /* 
  * Transform all the slices of hamburger
  * into a crossmark.
  */
-#menuToggle input:checked ~ span
-{
+#menuToggle input:checked ~ span {
   opacity: 1;
   transform: rotate(-45deg) translate(-5px, -4px);
   background: $blank-pink;
 }
 
- /*første linje*/
-#menuToggle input:checked ~ span:nth-last-child(3)
-{
+/*første linje*/
+#menuToggle input:checked ~ span:nth-last-child(3) {
   transform: rotate(45deg) translate(4px, 6px);
- 
 }
 
 /*
  * den i midten
  */
-#menuToggle input:checked ~ span:nth-last-child(2)
-{
+#menuToggle input:checked ~ span:nth-last-child(2) {
   opacity: 0;
   transform: rotate(0deg) scale(0.2, 0.2);
-  
 }
 
- #menuToggle input
-{
+#menuToggle input {
   display: block;
   width: 90px;
   height: 80px;
@@ -908,12 +884,12 @@ a:hover.menupunkt {
 
   opacity: 0; /* hide this */
   z-index: 3001; /* and place it over the hamburger */
-  
+
   -webkit-touch-callout: none;
 }
 
 @media (min-width: 769px) {
-  .burgermeny{
+  .burgermeny {
     display: none;
   }
   #menuToggle {
