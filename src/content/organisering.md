@@ -12,8 +12,8 @@ Jahn Arne Johnsen | Daglig leder | Administrasjon (fulltid)
 Knut Backer | Salgssjef | Administrasjon (fulltid)
 Magne Davidsen | Leder for Teknologi | Administrasjon (deltid)
 Jon Bernholdt Olsen | Leder for Design | Administrasjon (deltid)
-Erlend Oftedal | CTO | Fagledelse
-Haydn Evans | CDO | Fagledelse
+Ole Jacob Syrdahl | Fagsjef Teknologi | Fagledelse
+Haydn Evans | Fagsjef Design | Fagledelse
 
 
 ## Styret og ansattrepresentanter
