@@ -44,6 +44,6 @@ Lee Frost | Ansvarlig for merkevare & visuell identitet
 Lisa Ottesen | Leder for Blank Bedriftsidrettslag
 Emilie Mæhlum | Sosialt- og arrangementsansvarlig
 
-Kompensasjon for hver rolle er 50 000,- / år, med unntak av Leder Blank BIL som kompenseres med 30 000,- / år. Man får en egen timeføringskonto som kan brukes, men tid brukt i rollen gir ikke overtidskompensasjon i tillegg.
+Kompensasjon for hver rolle er 50 000,- / år. Man får en egen timeføringskonto som kan brukes, men tid brukt i rollen gir ikke overtidskompensasjon i tillegg.
 
 Nåværende åremålsperiode gjelder fra og med 1. august 2021 til og med 31. juli 2022.
