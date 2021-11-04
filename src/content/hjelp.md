@@ -23,7 +23,7 @@ Dersom du ikke har brukt Markdown tidligere kan det være greit å ta en titt p�
 Dersom du ønsker å gjøre noe utover det å endre innhold, kan det være kjekt å kjøre opp løsningen lokalt. Siden kjøres på [Gatsby.js](http://www.gatsbyjs.org/), og det er ikke spesielt vanskelig å få den til å kjøre, så lenge du har [Node](https://nodejs.org/) installert, og ```npm``` på kommandolinjen.
 
 - Installer gatsby-cli: ```npm install -g gatsby-cli```
-- Klon clapat/about-blank-ny: ```git clone https://github.com/blankoslo/about-blank```
+- Klon blankoslo/about-blank-ny: ```git clone https://github.com/blankoslo/about-blank```
 - Installer avhengigheter: ```npm install```
 - Kjør utviklingsserver: ```gatsby develop```
 
