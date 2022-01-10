@@ -24,15 +24,6 @@ Ved internt arbeid avklares overtidsarbeid med den som er overordnet ansvarlig f
 
 Ordinær timelønn beregnes ved å dele brutto alminnelig årslønn på 1950 timer.
 
-## Overskuddsdeling
-Istedenfor bonusordning har selskapet overskuddsdeling. Hvert kvartal settes 30 % av overskuddet av, og deles likt på alle ansatte. Den ansattes andel skal også dekke arbeidsgiveravgift, og det betales ikke feriepenger eller pensjon av andelen.
-
-For å illustrere med et eksempel: i 4. kvartal 2016 går Blank med et overskudd på 950 000,- og har 25 ansatte:
-
-> (950 000,- * 30% / 1,14 (arbeidsgiveravgift)) / 25 ansatte = 10 000,- pr ansatt
-
-Bonus utbetales sammen med første månedslønn etter kvartalslutt. Eksempelvis utbetales bonus for Q1 sammenm med aprillønnen.
-
 ## Medeierskap
 Alle ansatte i Blank får tilbud om å kjøpe aksjer i selskapet og dermed bli medeiere. Ansatte som eier mer enn 10 % av selskapet får ikke tilbud om å kjøpe flere aksjer. Man må ikke eie aksjer for å jobbe i Blank, men vi ønsker å gi alle denne muligheten.
 
@@ -53,10 +44,6 @@ Det finnes to faste muligheter for å kjøpe aksjer i Blank. Dersom selskapet ik
 *Ved bonusutbetalinger:*
 - Hvert kvartal tilbys alle ansatte å kjøpe aksjer. 
 - Maks kjøpesum er bonusbeløp + eventuell aksjerabatt før skatt
-
-### Aksjerabatt
-Hvert år kan du få du 20 % rabatt ved aksjekjøp. Maksimal rabatt er 5 000,- per år. Det betyr at om du kjøper aksjer for 25 000,- får du 20 % rabatt på disse og betaler da 20 000,-
-
 
 ## Pensjon
 Blank sparer 5,5 % av lønn mellom 0G og 12G i innskuddspensjon. Logg inn på [www.gjensidige.no](http://www.gjensidige.no) med BankID dersom du ønsker å justere risikoprofilen for din pensjonssparing.
