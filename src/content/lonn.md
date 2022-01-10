@@ -24,15 +24,6 @@ Ved internt arbeid avklares overtidsarbeid med den som er overordnet ansvarlig f
 
 Ordinær timelønn beregnes ved å dele brutto alminnelig årslønn på 1950 timer.
 
-## Overskuddsdeling
-Istedenfor bonusordning har selskapet overskuddsdeling. Hvert kvartal settes 30 % av overskuddet av, og deles likt på alle ansatte. Den ansattes andel skal også dekke arbeidsgiveravgift, og det betales ikke feriepenger eller pensjon av andelen.
-
-For å illustrere med et eksempel: i 4. kvartal 2016 går Blank med et overskudd på 950 000,- og har 25 ansatte:
-
-> (950 000,- * 30% / 1,14 (arbeidsgiveravgift)) / 25 ansatte = 10 000,- pr ansatt
-
-Bonus utbetales sammen med første månedslønn etter kvartalslutt. Eksempelvis utbetales bonus for Q1 sammenm med aprillønnen.
-
 ## Medeierskap
 Alle ansatte i Blank får tilbud om å kjøpe aksjer i selskapet og dermed bli medeiere. Ansatte som eier mer enn 10 % av selskapet får ikke tilbud om å kjøpe flere aksjer. Man må ikke eie aksjer for å jobbe i Blank, men vi ønsker å gi alle denne muligheten.
 
