@@ -45,10 +45,6 @@ Det finnes to faste muligheter for å kjøpe aksjer i Blank. Dersom selskapet ik
 - Hvert kvartal tilbys alle ansatte å kjøpe aksjer. 
 - Maks kjøpesum er bonusbeløp + eventuell aksjerabatt før skatt
 
-### Aksjerabatt
-Hvert år kan du få du 20 % rabatt ved aksjekjøp. Maksimal rabatt er 5 000,- per år. Det betyr at om du kjøper aksjer for 25 000,- får du 20 % rabatt på disse og betaler da 20 000,-
-
-
 ## Pensjon
 Blank sparer 5,5 % av lønn mellom 0G og 12G i innskuddspensjon. Logg inn på [www.gjensidige.no](http://www.gjensidige.no) med BankID dersom du ønsker å justere risikoprofilen for din pensjonssparing.
 
