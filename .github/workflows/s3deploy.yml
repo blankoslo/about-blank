@@ -10,12 +10,11 @@ jobs:
       AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
     steps:
         - uses: actions/checkout@v2
-
-        - name: Install dependencies
-          run: npm install
-
-        - name: Build
-          run: npm run build
+        - uses: actions/setup-node@v2
+          with:
+            node-version: '14'
+        - run: npm install
+        - run: npm build
 
         - name: Deploy
           uses: reggionick/s3-deploy@v3
