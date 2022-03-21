@@ -32,3 +32,15 @@ Siden bygges nå på nytt hver gang du gjør endringer, og kjører på localhost
 ### Bygg og deploy
 
 Ved oppdatering av master-branchen på Github kjøres ```gatsby build``` på [Travis](https://travis-ci.org/blankoslo/about-blank). Dersom bygget er vellykket deployes innholdet i `_site`-mappen til S3, og er live på about.blankoslo.no. Oppsettet av dette finner du i .travis.yml i roten av prosjektet.
+
+## Stravabot
+
+Hver mandag kl 8 sender Stravaboten en melding til #random i Slack med sist ukes treningstopplister. For å dukke opp i lista må du melde deg inn i tilhørende klubb på Strava:
+- [Løping](https://www.strava.com/clubs/blank)
+- [Sykling](https://www.strava.com/clubs/blank-pedal)
+- [Ski](https://www.strava.com/clubs/blanke-ski)
+- [Gåing](https://www.strava.com/clubs/blankwalking)
+
+Hvis du likevel ikke dukker opp i lista til tross for at du er medlem av den respektive klubben er nok årsaken at du har en ikke-offentlig profil. Da må Stravabotens medhjelper, [Speed Freak](https://www.strava.com/athletes/37800142), følge deg på Strava. Si ifra til Lars Skjelbek, så fikser han det. Eventuelt logg inn på Strava med Speed Freak-kontoen og følg deg selv (brukernavn og passord ligger i Blanks 1password).
+
+Kildekoden til Stravaboten [ligger på Github](https://github.com/blankoslo/blank-strava/).
