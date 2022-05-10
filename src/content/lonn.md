@@ -82,7 +82,7 @@ Vurderingen er at de ansatte er i forskjellige livssituasjoner, og kan ha forskj
 Det er mulig å ha en forsikring som gir rett til engangsutbetaling ved skade eller sykdom også dersom tilfellet ikke skjer gjennom jobb (eller reise i jobb). Dette har vi ikke i Blank.
 
 ## Internett
-Blank dekker internett hjemme hos deg med en øvre grense på 500 kroner inkludert mva. i måneden.
+Blank dekker internett hjemme hos deg med en øvre grense på 750 kroner inkludert mva. i måneden.
 
 ## Mobil
 Abonnement for mobiltelefoni dekkes av selskapet. Dette kan brukes fritt innenfor EU/EØS, med unntak av innholdstjenester.
@@ -125,3 +125,5 @@ Tre år: Gavekort på 2000 kroner som man kan bruke på å gå ut å spise
 Fire år: Gavekort på 500 kroner på bokhandel
 
 Fem år: Gavekort på 5000 kroner til opphold i tretopphus
+
+Seks år: Gavekort på 1200 kroner til en smaksopplevelse
