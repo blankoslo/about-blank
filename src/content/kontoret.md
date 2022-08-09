@@ -41,7 +41,7 @@ Det er bare hyggelig dersom ansatte ønsker å bruke kontoret utenfor normal arb
 Dersom man planlegger et arrangement hvor man trenger hele kontoret for seg selv gjelder følgende:
 - spør på Slack (#loftet) om det er OK at man bruker hele kontoret den gitte dagen
 - lag en hendelse i Google Calendar og legg til Loftet
-- sørg for selv å skaffe mat og drikke, ikke ta av det som er kjøpt inn til Blank
+- sørg for selv å skaffe mat og drikke, ikke benytt varer kjøpt inn til Blank, ihvertfall ikke uten å erstatte de
 - dersom det er et stort arrangement bør man vurdere å avtale ekstra vask og renhold før kontoret skal brukes til jobb
 
 Alle ansatte har lik rett til å bruke kontoret, og det er sånn sett «førstemann til mølla» dersom man ønsker å bruke hele kontoret alene.
