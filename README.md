@@ -1,9 +1,7 @@
-<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center">
-  <a href="https://www.gatsbyjs.org">
-    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
-  </a>
-</p>
+# NB! Dette repoet er deprecated, og about-innholdet lever nå i Sanity
+
+---
+
 <h1 align="center">
   Gatsby's default starter
 </h1>
