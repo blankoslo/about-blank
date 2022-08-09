@@ -46,12 +46,11 @@ Dersom man planlegger et arrangement hvor man trenger hele kontoret for seg selv
 
 Alle ansatte har lik rett til å bruke kontoret, og det er sånn sett «førstemann til mølla» dersom man ønsker å bruke hele kontoret alene.
 
-### Forbruk av mat og drikke
+### Mat og drikke
 
-Dersom man benytter loftet sosialt sammen med kolleger, f.eks. filmkveld eller fredagspils, så kan man forsyne seg av mat og drikke som finnes på loftet.
+Dersom man benytter loftet sosialt sammen med kolleger, f.eks. filmkveld eller fredagspils, så kan man forsyne seg av mat og drikke som finnes på loftet eller kjøpe inn og utgiftsføre.
 
 Det er også greit å ta med venner i uformelle sammenhenger. Hvis man da nyter godt av øl og annet som er kjøpt inn til Blank, så bør man erstatte dette hvis forbruket overstiger ca. 500 kr i løpet av en måneds tid. Dette kan man erstatte ved å selv kjøpe inn tilsvarende det man har brukt eller be de som er ansvarlig for innkjøp om å bistå og få det trukket av lønna. Dette bør man sørge for å få gjort så raskt som mulig, slik at beholdningen på loftet er forutsigbar. 
-
 
 ## AV-utstyr
 
@@ -64,7 +63,6 @@ Vi har en DJ-mixer som er koblet rett til PA-anlegget.
 ### VR
 I glassburet i fjerde finner du også VR-briller, og PCen har en rekke spill. 
 Passordet til PCen finner du i 1Password. Dersom du har problemer med å komme i gang, spør Ole Christer.
-
 
 ## Tappetårn
 Skyll igjennom med vann etter bruk. Det finnes en egen vaskebøtte til dette. En gang i blant må vi skylle igjennom med kjemikalier. Man lager da en tynn blading (1:80) med vaskemiddel og vann, skyller gjennom og lar dette virket i en halvtime. Deretter skyller man igjennom med 5 liter vann.
