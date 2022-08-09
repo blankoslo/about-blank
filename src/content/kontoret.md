@@ -36,13 +36,22 @@ Noen ganger hender det man har en venn som trenger et arbeidssted i Oslo for dag
 Gjester kan benytte besokhosblank-nettverket, og Blank-ansatt kan booke møterom for gjesten som vanlig via kalenderen. 
 
 ## Utenfor arbeidstid
-Det er bare hyggelig dersom ansatte ønsker å bruke kontoret utenfor normal arbeidstid, enten man bruker det som arbeidsplass eller til sosialisering. Den eneste regelen er at man etterlater kontoret rent og ryddig.
+Det er bare hyggelig dersom ansatte ønsker å bruke kontoret utenfor normal arbeidstid, enten man bruker det som arbeidsplass eller til sosialisering. Den viktigste regelen er at man etterlater kontoret rent og ryddig.
 
 Dersom man planlegger et arrangement hvor man trenger hele kontoret for seg selv gjelder følgende:
 - spør på Slack (#loftet) om det er OK at man bruker hele kontoret den gitte dagen
 - lag en hendelse i Google Calendar og legg til Loftet
+- sørg for selv å skaffe mat og drikke, ikke ta av det som er kjøpt inn til Blank
+- dersom det er et stort arrangement bør man vurdere å avtale ekstra vask og renhold før kontoret skal brukes til jobb
 
 Alle ansatte har lik rett til å bruke kontoret, og det er sånn sett «førstemann til mølla» dersom man ønsker å bruke hele kontoret alene.
+
+### Forbruk av mat og drikke
+
+Dersom man benytter loftet sosialt sammen med kolleger, f.eks. filmkveld eller fredagspils, så kan man forsyne seg av mat og drikke som finnes på loftet.
+
+Det er også greit å ta med venner i uformelle sammenhenger. Hvis man da nyter godt av øl og annet som er kjøpt inn til Blank, så bør man erstatte dette hvis forbruket overstiger ca. 500 kr i løpet av en måneds tid. Dette kan man erstatte ved å selv kjøpe inn tilsvarende det man har brukt eller be de som er ansvarlig for innkjøp om å bistå og få det trukket av lønna. Dette bør man sørge for å få gjort så raskt som mulig, slik at beholdningen på loftet er forutsigbar. 
+
 
 ## AV-utstyr
 
@@ -55,7 +64,6 @@ Vi har en DJ-mixer som er koblet rett til PA-anlegget.
 ### VR
 I glassburet i fjerde finner du også VR-briller, og PCen har en rekke spill. 
 Passordet til PCen finner du i 1Password. Dersom du har problemer med å komme i gang, spør Ole Christer.
-
 
 ## Tappetårn
 Skyll igjennom med vann etter bruk. Det finnes en egen vaskebøtte til dette. En gang i blant må vi skylle igjennom med kjemikalier. Man lager da en tynn blading (1:80) med vaskemiddel og vann, skyller gjennom og lar dette virket i en halvtime. Deretter skyller man igjennom med 5 liter vann.
