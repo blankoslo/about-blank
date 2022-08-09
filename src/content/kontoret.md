@@ -65,6 +65,7 @@ Vi har en DJ-mixer som er koblet rett til PA-anlegget.
 I glassburet i fjerde finner du også VR-briller, og PCen har en rekke spill. 
 Passordet til PCen finner du i 1Password. Dersom du har problemer med å komme i gang, spør Ole Christer.
 
+
 ## Tappetårn
 Skyll igjennom med vann etter bruk. Det finnes en egen vaskebøtte til dette. En gang i blant må vi skylle igjennom med kjemikalier. Man lager da en tynn blading (1:80) med vaskemiddel og vann, skyller gjennom og lar dette virket i en halvtime. Deretter skyller man igjennom med 5 liter vann.
 
